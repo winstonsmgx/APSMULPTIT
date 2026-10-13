@@ -1,0 +1,308 @@
+{
+ "id": "04-storyboarding",
+ "title": "Storyboarding",
+ "course": "storyboarding",
+ "target": 24,
+ "questions": [
+  {
+   "q": "The main purpose of a storyboard is to…",
+   "options": [
+    "Be the final film",
+    "Replace the music score",
+    "Plan the shots visually before production",
+    "Serve as a marketing poster"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which order is correct?",
+   "options": [
+    "Script → storyboard → animatic → production",
+    "Storyboard → script → production → animatic",
+    "Production → script → storyboard",
+    "Animatic → script → storyboard"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A storyboard panel usually contains…",
+   "options": [
+    "Only a drawing",
+    "A drawing, action notes, dialogue, camera direction and duration",
+    "Only dialogue",
+    "The budget"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "An establishing shot…",
+   "options": [
+    "Shows a character's emotion in detail",
+    "Shows a small object",
+    "Shows a reaction",
+    "Shows where the scene takes place"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A close-up is mainly used to show…",
+   "options": [
+    "Emotion and detail",
+    "The whole landscape",
+    "A crowd",
+    "The location"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "An extreme close-up shows…",
+   "options": [
+    "The whole body",
+    "A small detail, such as the eyes",
+    "A landscape",
+    "A group of people"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A medium shot frames a character…",
+   "options": [
+    "From head to toe with surroundings",
+    "Only the eyes",
+    "From about the waist up",
+    "From far above"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A wide (long) shot shows…",
+   "options": [
+    "Only the face",
+    "Only the hands",
+    "A single object",
+    "The whole body together with its surroundings"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A high-angle shot makes the subject look…",
+   "options": [
+    "Small and weak",
+    "Powerful",
+    "Closer",
+    "Faster"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A low-angle shot makes the subject look…",
+   "options": [
+    "Weak",
+    "Powerful and dominant",
+    "Far away",
+    "Blurry"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A bird's-eye shot is filmed…",
+   "options": [
+    "At eye level",
+    "From the ground",
+    "Directly from above",
+    "From behind a shoulder"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A Dutch angle (tilted camera) usually creates…",
+   "options": [
+    "Calm",
+    "Romance",
+    "Humour",
+    "Tension and unease"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A pan is when the camera…",
+   "options": [
+    "Moves physically toward the subject",
+    "Changes the focal length",
+    "Rotates horizontally from a fixed position",
+    "Rotates vertically"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A tilt is when the camera…",
+   "options": [
+    "Rotates horizontally",
+    "Rotates vertically from a fixed position",
+    "Moves on rails",
+    "Shakes"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A dolly (tracking) shot is when the camera…",
+   "options": [
+    "Physically moves toward, away from or alongside the subject",
+    "Stays still and zooms",
+    "Rotates vertically",
+    "Turns upside down"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A zoom is when…",
+   "options": [
+    "The camera moves on a crane",
+    "The camera rotates",
+    "The actor walks to the camera",
+    "The lens changes focal length while the camera stays in place"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The 180-degree rule exists to…",
+   "options": [
+    "Keep screen direction consistent",
+    "Keep the lighting the same",
+    "Limit the number of shots",
+    "Fix the frame rate"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "If the camera crosses the 180-degree line…",
+   "options": [
+    "The colours change",
+    "Characters seem to switch sides, confusing the viewer",
+    "The sound stops",
+    "Nothing happens"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shot / reverse shot is mainly used for…",
+   "options": [
+    "Action chases",
+    "Landscapes",
+    "Dialogue between two characters",
+    "Title sequences"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "An over-the-shoulder shot is framed…",
+   "options": [
+    "From directly above",
+    "From the floor",
+    "Through a window",
+    "From behind one character's shoulder, looking at the other"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The rule of thirds means…",
+   "options": [
+    "Every scene has three shots",
+    "Each shot lasts three seconds",
+    "Three characters per frame",
+    "Placing key elements along the lines or intersections that divide the frame into thirds"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Leading lines in a composition…",
+   "options": [
+    "Are the edges of the frame",
+    "Guide the viewer's eye toward the subject",
+    "Are subtitles",
+    "Are camera rails"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "An eyeline match is a cut from…",
+   "options": [
+    "One location to another",
+    "Day to night",
+    "A character looking to what they are looking at",
+    "Colour to black and white"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A match cut links two shots through…",
+   "options": [
+    "A similar shape, movement or composition",
+    "A fade to black",
+    "A title card",
+    "A change of music only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A straight cut is…",
+   "options": [
+    "An instant change from one shot to the next",
+    "A slow blend between images",
+    "A fade to black",
+    "A wipe across the screen"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A dissolve…",
+   "options": [
+    "Ends the film",
+    "Is an instant change",
+    "Gradually blends one image into the next, often to show time passing",
+    "Splits the screen"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A fade to black usually…",
+   "options": [
+    "Starts a dialogue",
+    "Ends a scene or sequence",
+    "Shows a flashback only",
+    "Speeds up action"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "An animatic is…",
+   "options": [
+    "A 3D model",
+    "A shot list",
+    "The final film",
+    "A storyboard timed with sound to test pacing"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Arrows drawn on storyboard panels show…",
+   "options": [
+    "Camera or character movement",
+    "The page order",
+    "Lighting colours",
+    "The budget"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A storyboard in UX design is used to…",
+   "options": [
+    "Plan camera angles",
+    "Show the user's situation and need as a sequence of panels",
+    "Write code",
+    "Design the logo"
+   ],
+   "answer": 1
+  }
+ ]
+}

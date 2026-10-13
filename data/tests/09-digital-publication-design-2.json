@@ -1,0 +1,308 @@
+{
+ "id": "09-digital-publication-design-2",
+ "title": "Digital Publication Design 2",
+ "course": "digital-publication-design-2",
+ "target": 24,
+ "questions": [
+  {
+   "q": "Compared with Digital Publication Design 1, this course mainly adds…",
+   "options": [
+    "Print-only work",
+    "Black-and-white design",
+    "Interactivity, multimedia and multi-device publishing",
+    "Handwriting"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "EPUB 3 is built on…",
+   "options": [
+    "HTML5 and CSS",
+    "PostScript",
+    "Flash",
+    "JPEG"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The EPUB standard is maintained by…",
+   "options": [
+    "Adobe",
+    "Apple",
+    "Microsoft",
+    "W3C (formerly IDPF)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "EPUB 3 can include…",
+   "options": [
+    "Only text",
+    "Audio, video and scripted interactivity",
+    "Only images",
+    "Nothing beyond plain text"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A strength of interactive PDF is that it…",
+   "options": [
+    "Keeps the exact layout and supports links and buttons",
+    "Reflows perfectly on phones",
+    "Supports any JavaScript",
+    "Always has the smallest files"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A weakness of interactive PDF is that it…",
+   "options": [
+    "Cannot contain links",
+    "Cannot contain images",
+    "Is hard to read on small screens and has limited media support",
+    "Cannot be printed"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A hyperlink in a publication is…",
+   "options": [
+    "An image style",
+    "A font",
+    "A colour",
+    "A clickable link to a page, section or URL"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "An interactive table of contents is…",
+   "options": [
+    "A list of images",
+    "A clickable list that jumps to each section",
+    "The index at the back only",
+    "The cover page"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A flipbook is…",
+   "options": [
+    "An online publication that imitates turning pages",
+    "A printed comic",
+    "A video format",
+    "A font family"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fixed-layout EPUB is best for…",
+   "options": [
+    "Novels",
+    "Dictionaries",
+    "Picture books, comics and cookbooks with designed spreads",
+    "Plain-text reports"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Reflowable EPUB is best for…",
+   "options": [
+    "Posters",
+    "Text-heavy books such as novels",
+    "Infographics",
+    "Comics"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In InDesign, a liquid layout is…",
+   "options": [
+    "An ink setting",
+    "A colour mode",
+    "A watercolour effect",
+    "A set of rules that adapts content to different page sizes and orientations"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A responsive layout is…",
+   "options": [
+    "One fluid layout that adapts to any screen width",
+    "A separate layout per device",
+    "A print layout",
+    "A fixed-size PDF"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "An adaptive layout is…",
+   "options": [
+    "Always the same on every device",
+    "Random",
+    "A set of separate fixed layouts for specific screen sizes",
+    "Only for print"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "For a tablet publication, orientation should be…",
+   "options": [
+    "Ignored",
+    "Planned for both portrait and landscape, or locked deliberately",
+    "Always landscape",
+    "Chosen by the printer"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Consistent navigation means…",
+   "options": [
+    "Changing buttons on every page",
+    "Hiding navigation",
+    "Using random icons",
+    "Keeping navigation in the same position and style on all pages"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Feedback in an interactive publication means…",
+   "options": [
+    "A visible response when the user taps or clicks",
+    "Reader reviews",
+    "Printing errors",
+    "Background music"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Typical button states are…",
+   "options": [
+    "Only one state",
+    "The logo colours",
+    "Normal, hover (rollover) and pressed (click)",
+    "Font weights"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "An embedded video, compared with a linked online video…",
+   "options": [
+    "Plays only from an external site",
+    "Is stored inside the publication, making the file larger but working offline",
+    "Has no sound",
+    "Cannot be played"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Animation in a publication should…",
+   "options": [
+    "Be used as much as possible",
+    "Loop forever",
+    "Distract the reader",
+    "Support the content and be used sparingly"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alt text is…",
+   "options": [
+    "A text description of an image for screen readers",
+    "An alternative font",
+    "A caption style",
+    "A hidden watermark"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Logical reading order means…",
+   "options": [
+    "Alphabetical order",
+    "Random order",
+    "The order a screen reader follows, matching the visual order",
+    "Reverse order"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A tagged PDF is…",
+   "options": [
+    "A PDF with price tags",
+    "A PDF with structure tags for accessibility",
+    "A compressed PDF",
+    "A password-protected PDF"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Keeping text as live text rather than images makes it…",
+   "options": [
+    "Larger in file size",
+    "Blurry",
+    "Impossible to search",
+    "Searchable, selectable, accessible and sharp at any size"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A good way to reduce file size is to…",
+   "options": [
+    "Compress images, subset fonts and remove unused assets",
+    "Add more video",
+    "Use only uncompressed TIFF",
+    "Duplicate pages"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Publication metadata is…",
+   "options": [
+    "The page numbers",
+    "The images",
+    "Information such as title, author, language and ISBN",
+    "The fonts"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "An ISBN is…",
+   "options": [
+    "An image format",
+    "A unique identifier for a book",
+    "A font licence",
+    "A colour code"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A digital publication should be tested on…",
+   "options": [
+    "Only the designer's computer",
+    "One phone",
+    "An emulator only",
+    "Several real devices and reading apps"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Apple Books and Google Play Books are…",
+   "options": [
+    "E-book distribution platforms",
+    "Design tools",
+    "Fonts",
+    "File formats"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "When using fonts in an e-book, you should…",
+   "options": [
+    "Assume every font is free",
+    "Never embed fonts",
+    "Check that the licence allows embedding in e-books or apps",
+    "Use only system fonts by law"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "id": "07-presentation-skills",
+ "title": "Presentation Skills",
+ "course": "presentation-skills",
+ "target": 24,
+ "questions": [
+  {
+   "q": "The first step in planning a presentation is to…",
+   "options": [
+    "Design the slides",
+    "Choose a template",
+    "Analyse the audience and define the goal",
+    "Rehearse"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The key message of a presentation is…",
+   "options": [
+    "The one main idea the audience should remember",
+    "The title slide",
+    "The longest slide",
+    "A joke at the start"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The classic presentation structure is…",
+   "options": [
+    "Conclusion → introduction → body",
+    "Body only",
+    "Q&A first, then content",
+    "Opening → body → conclusion"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The purpose of a hook is to…",
+   "options": [
+    "End the talk",
+    "Grab attention at the start",
+    "Introduce the team",
+    "Show only the agenda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "For a short talk, how many main points are usually recommended?",
+   "options": [
+    "About three",
+    "Ten",
+    "Twenty",
+    "As many as possible"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A strong conclusion…",
+   "options": [
+    "Introduces a new topic",
+    "Is an apology",
+    "Summarises and gives a call to action",
+    "Presents new data"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"One idea per slide\" helps because it…",
+   "options": [
+    "Wastes slides",
+    "Keeps focus and makes slides easy to follow",
+    "Is only for children",
+    "Is required by PowerPoint"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Text on slides should be…",
+   "options": [
+    "Full paragraphs read aloud",
+    "In tiny fonts",
+    "Many bullet points",
+    "A few words, with the speaker explaining"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A commonly recommended minimum font size for slide body text is…",
+   "options": [
+    "8 pt",
+    "12 pt",
+    "About 24 pt or larger",
+    "72 pt for everything"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Reading slides word for word…",
+   "options": [
+    "Reduces audience engagement",
+    "Is recommended",
+    "Increases eye contact",
+    "Looks professional"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Visuals help presentations because…",
+   "options": [
+    "They only decorate",
+    "They fill space",
+    "They hide a lack of content",
+    "People process images fast and remember them better"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A chart on a slide should…",
+   "options": [
+    "Show as much data as possible",
+    "Show one clear message",
+    "Use 3D effects",
+    "Avoid labels"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A consistent slide template…",
+   "options": [
+    "Confuses the audience",
+    "Creates visual unity and looks professional",
+    "Slows the audience down",
+    "Is pure decoration"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Contrast on slides…",
+   "options": [
+    "Should be low to look elegant",
+    "Does not matter",
+    "Matters only in print",
+    "Should be strong so text is readable from a distance"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eye contact with the audience…",
+   "options": [
+    "Builds trust and connection",
+    "Shows nervousness",
+    "Should be avoided",
+    "Is only needed at the end"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Good speaking pace is…",
+   "options": [
+    "As fast as possible",
+    "Monotone",
+    "Varied, with pauses for emphasis",
+    "Whispered"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Pauses during a talk…",
+   "options": [
+    "Give the audience time to absorb ideas",
+    "Show you forgot your lines",
+    "Should never happen",
+    "Belong only in Q&A"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Good posture and gestures are…",
+   "options": [
+    "Crossed arms",
+    "Upright, with open gestures",
+    "Hands in pockets",
+    "Turning your back to the audience"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A good way to reduce nervousness is to…",
+   "options": [
+    "Avoid preparing",
+    "Memorise every word",
+    "Drink lots of coffee",
+    "Rehearse several times and breathe slowly"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rehearsal is most effective when it is…",
+   "options": [
+    "Silent reading",
+    "Done once the night before",
+    "Aloud, timed, ideally in front of someone",
+    "Skipped"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Filler words such as \"um\", \"uh\" and \"like\"…",
+   "options": [
+    "Make you sound expert",
+    "Reduce clarity and confidence",
+    "Are required in English",
+    "Are a kind of gesture"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In Q&A, the first thing to do is…",
+   "options": [
+    "Listen to the full question",
+    "Interrupt early",
+    "Answer a different question",
+    "Ignore it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rephrasing a question before answering…",
+   "options": [
+    "Wastes time",
+    "Confuses people",
+    "Confirms understanding and lets everyone hear it",
+    "Is rude"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "If you cannot answer a question, you should…",
+   "options": [
+    "Invent an answer",
+    "Change the topic",
+    "Stay silent",
+    "Be honest, share what you know and offer to follow up"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Regarding the time limit, you should…",
+   "options": [
+    "Ignore it",
+    "Go over it to show effort",
+    "Stop halfway",
+    "Stay within it and plan content accordingly"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Audience analysis includes…",
+   "options": [
+    "Your favourite colour",
+    "The audience's knowledge, needs and expectations",
+    "Your slide software",
+    "Only the room lighting"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Storytelling in a presentation…",
+   "options": [
+    "Makes information memorable and engaging",
+    "Is only for children",
+    "Replaces evidence",
+    "Wastes time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Signposting phrases such as \"Next, I will show…\"…",
+   "options": [
+    "Confuse listeners",
+    "Only fill time",
+    "Guide the audience through the structure",
+    "End the talk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In the APS interview, a 2-minute project pitch should…",
+   "options": [
+    "List every detail",
+    "Follow problem → process → result → lesson",
+    "Be read from paper",
+    "Skip the result"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A handout or backup slide is useful for…",
+   "options": [
+    "Detailed data the main slides cannot hold",
+    "Replacing the talk",
+    "Opening the talk",
+    "Nothing"
+   ],
+   "answer": 0
+  }
+ ]
+}

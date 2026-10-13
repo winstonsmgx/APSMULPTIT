@@ -1,0 +1,308 @@
+{
+ "id": "11-scientific-research-methodology",
+ "title": "Scientific Research Methodology",
+ "course": "scientific-research-methodology",
+ "target": 24,
+ "questions": [
+  {
+   "q": "The first step of a research process is to…",
+   "options": [
+    "Analyse the data",
+    "Write the conclusion",
+    "Identify the topic and research problem",
+    "Collect data"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The difference between basic and applied research is that…",
+   "options": [
+    "Basic research expands knowledge; applied research solves practical problems",
+    "Basic research is easier",
+    "Applied research uses no data",
+    "There is no difference"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A good research question is…",
+   "options": [
+    "Vague",
+    "Impossible to answer",
+    "As broad as possible",
+    "Specific, measurable, feasible and relevant"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A hypothesis is…",
+   "options": [
+    "A proven fact",
+    "A testable prediction",
+    "The conclusion",
+    "A citation"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The independent variable is…",
+   "options": [
+    "The factor the researcher changes or compares",
+    "The measured outcome",
+    "A constant",
+    "The sample size"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The dependent variable is…",
+   "options": [
+    "A factor kept constant",
+    "The researcher's name",
+    "The outcome being measured",
+    "The sample size"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Control variables are…",
+   "options": [
+    "The outcome",
+    "The cause",
+    "The participants",
+    "Factors kept constant so they do not affect the result"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The purpose of a literature review is to…",
+   "options": [
+    "Copy other studies",
+    "Understand existing knowledge and find the research gap",
+    "List friends' opinions",
+    "Make the report longer"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A research gap is…",
+   "options": [
+    "A question that previous studies have not answered",
+    "A missing page",
+    "A delay in the timeline",
+    "A data error"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quantitative research uses…",
+   "options": [
+    "Meanings from interviews",
+    "Only small samples",
+    "Numbers and statistics, often with larger samples",
+    "Storytelling"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qualitative research explores…",
+   "options": [
+    "Only numbers",
+    "Large random samples",
+    "Statistical tests",
+    "Meanings and experiences, through interviews or observation"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mixed-methods research…",
+   "options": [
+    "Uses neither method",
+    "Combines quantitative and qualitative methods",
+    "Uses only experiments",
+    "Uses only secondary data"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which is a qualitative method?",
+   "options": [
+    "An in-depth interview",
+    "A 500-person rating survey",
+    "A statistical experiment",
+    "Website analytics"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which is a quantitative method?",
+   "options": [
+    "A focus group",
+    "A case study",
+    "A closed-question survey with rating scales",
+    "Field observation notes"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The relationship between population and sample is that…",
+   "options": [
+    "They are the same",
+    "The sample is larger",
+    "The population is part of the sample",
+    "The sample is the group studied from the larger population"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Random sampling means…",
+   "options": [
+    "Choosing your friends",
+    "Every member of the population has an equal chance of selection",
+    "Choosing the first people you meet",
+    "Choosing only experts"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Convenience sampling means…",
+   "options": [
+    "Choosing people who are easy to reach; fast but possibly biased",
+    "A perfectly representative sample",
+    "Every member has an equal chance",
+    "Choosing by lottery"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Validity means…",
+   "options": [
+    "Consistency",
+    "Speed",
+    "That a method measures what it claims to measure",
+    "Sample size"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Reliability means…",
+   "options": [
+    "Truth",
+    "Cost",
+    "Ethics",
+    "Consistent results when the study is repeated"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A Likert scale is…",
+   "options": [
+    "An interview guide",
+    "A rating scale such as 1–5 from \"strongly disagree\" to \"strongly agree\"",
+    "A sampling method",
+    "A citation style"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Descriptive statistics are…",
+   "options": [
+    "Measures such as mean, median, mode and percentages that summarise data",
+    "Interview quotes",
+    "Hypotheses",
+    "References"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Thematic analysis is used to…",
+   "options": [
+    "Run statistical tests",
+    "Select a sample",
+    "Find patterns and themes in qualitative data",
+    "Format citations"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Correlation and causation differ because…",
+   "options": [
+    "They are the same",
+    "Correlation proves causation",
+    "Causation is weaker than correlation",
+    "Correlation shows a relationship, not that one causes the other"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "In design research, A/B testing means…",
+   "options": [
+    "Comparing two fonts on paper",
+    "Comparing two versions with users to see which performs better",
+    "Testing on two computers",
+    "Asking two experts"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Informed consent means participants…",
+   "options": [
+    "Agree to take part after understanding the purpose, risks and their rights",
+    "Are paid",
+    "Are anonymous",
+    "Sign without reading"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Anonymity means…",
+   "options": [
+    "Publishing participants' names",
+    "Selling the data",
+    "Participants' identities are not revealed",
+    "Recording their faces"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "APA is…",
+   "options": [
+    "An image format",
+    "A font",
+    "A research method",
+    "A citation and referencing style"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Plagiarism is…",
+   "options": [
+    "Citing sources correctly",
+    "Using others' work or ideas without credit",
+    "Paraphrasing with a citation",
+    "Quoting with quotation marks"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The typical order of a research report is…",
+   "options": [
+    "Introduction, literature review, method, results, discussion, conclusion, references",
+    "Results, introduction, references, method",
+    "Conclusion, method, introduction",
+    "References, results, discussion"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The discussion section…",
+   "options": [
+    "Lists the raw data",
+    "Lists the references",
+    "Interprets results, compares them with the literature and notes limitations",
+    "Contains only the title"
+   ],
+   "answer": 2
+  }
+ ]
+}

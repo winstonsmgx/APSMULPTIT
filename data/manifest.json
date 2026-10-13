@@ -1,0 +1,294 @@
+{
+  "title": "APS Review · Multimedia Graphic Design",
+  "updated": "2026-10-13",
+  "pages": [
+    {
+      "id": "study-plan",
+      "title": "Study plan",
+      "file": "data/pages/study-plan.md"
+    },
+    {
+      "id": "mock-interview",
+      "title": "Mock interview",
+      "file": "data/pages/mock-interview.md"
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "file": "data/pages/references.md"
+    }
+  ],
+  "courses": [
+    {
+      "id": "mobile-application-design",
+      "title": "Mobile Application Design",
+      "group": "Semester 1 · 2022–2023",
+      "credits": 3,
+      "grade": "A",
+      "score": 8.8,
+      "file": "data/courses/mobile-application-design.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "01-mobile-application-design"
+    },
+    {
+      "id": "digital-publication-design-1",
+      "title": "Digital Publication Design 1",
+      "group": "Semester 1 · 2022–2023",
+      "credits": 3,
+      "grade": "A",
+      "score": 8.6,
+      "file": "data/courses/digital-publication-design-1.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "02-digital-publication-design-1"
+    },
+    {
+      "id": "game-design",
+      "title": "Game Design",
+      "group": "Semester 1 · 2022–2023",
+      "credits": 3,
+      "grade": "B",
+      "score": 7.6,
+      "file": "data/courses/game-design.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "03-game-design"
+    },
+    {
+      "id": "storyboarding",
+      "title": "Storyboarding",
+      "group": "Semester 1 · 2022–2023",
+      "credits": 3,
+      "grade": "A",
+      "score": 8.6,
+      "file": "data/courses/storyboarding.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "04-storyboarding"
+    },
+    {
+      "id": "3d-animation-design",
+      "title": "3D Animation Design",
+      "group": "Semester 1 · 2022–2023",
+      "credits": 3,
+      "grade": "B+",
+      "score": 8.3,
+      "file": "data/courses/3d-animation-design.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "05-3d-animation-design"
+    },
+    {
+      "id": "history-of-fine-arts-and-design",
+      "title": "History of Fine Arts and Design",
+      "group": "Semester 1 · 2022–2023",
+      "credits": 3,
+      "grade": "A+",
+      "score": 9.4,
+      "file": "data/courses/history-of-fine-arts-and-design.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "06-history-of-fine-arts-and-design"
+    },
+    {
+      "id": "presentation-skills",
+      "title": "Presentation Skills",
+      "group": "Semester 1 · 2022–2023",
+      "credits": 1,
+      "grade": "B",
+      "score": 7.9,
+      "file": "data/courses/presentation-skills.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "07-presentation-skills"
+    },
+    {
+      "id": "multimedia-product-design-project",
+      "title": "Multimedia Product Design Project",
+      "group": "Semester 2 · 2022–2023",
+      "credits": 2,
+      "grade": "B",
+      "score": 7.5,
+      "file": "data/courses/multimedia-product-design-project.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "08-multimedia-product-design-project"
+    },
+    {
+      "id": "intensive-internship",
+      "title": "Intensive Internship",
+      "group": "Semester 2 · 2022–2023",
+      "credits": 4,
+      "grade": "B",
+      "score": 7.5,
+      "file": "data/courses/intensive-internship.md",
+      "noteHint": "company, position, main tasks, tools, result",
+      "test": null
+    },
+    {
+      "id": "digital-publication-design-2",
+      "title": "Digital Publication Design 2",
+      "group": "Semester 2 · 2022–2023",
+      "credits": 3,
+      "grade": "B",
+      "score": 7.0,
+      "file": "data/courses/digital-publication-design-2.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "09-digital-publication-design-2"
+    },
+    {
+      "id": "digital-copyright",
+      "title": "Digital Copyright",
+      "group": "Semester 2 · 2022–2023",
+      "credits": 2,
+      "grade": "B",
+      "score": 7.1,
+      "file": "data/courses/digital-copyright.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "10-digital-copyright"
+    },
+    {
+      "id": "scientific-research-methodology",
+      "title": "Scientific Research Methodology",
+      "group": "Semester 2 · 2022–2023",
+      "credits": 2,
+      "grade": "B",
+      "score": 7.1,
+      "file": "data/courses/scientific-research-methodology.md",
+      "noteHint": "assignment or product you made, your role, tools, result",
+      "test": "11-scientific-research-methodology"
+    },
+    {
+      "id": "multimedia-design-seminar",
+      "title": "Multimedia Design Seminar",
+      "group": "Semester 2 · 2022–2023",
+      "credits": 1,
+      "grade": "B",
+      "score": 7.1,
+      "file": "data/courses/multimedia-design-seminar.md",
+      "noteHint": "seminar topic, what you presented or learned",
+      "test": null
+    },
+    {
+      "id": "graduation-project",
+      "title": "Graduation Project",
+      "group": "Graduation",
+      "credits": 6,
+      "grade": "A",
+      "score": 8.8,
+      "file": "data/courses/graduation-project.md",
+      "noteHint": "research on camera movement and lens effects, then the motion graphic short film TRASHED; your role, tools, result",
+      "test": "12-camera-movement-and-lens-effects"
+    },
+    {
+      "id": "graduation-internship",
+      "title": "Graduation Internship",
+      "group": "Graduation",
+      "credits": 6,
+      "grade": "A+",
+      "score": 9.0,
+      "file": "data/courses/graduation-internship.md",
+      "noteHint": "company, position, main projects, tools, result",
+      "test": null
+    }
+  ],
+  "tests": [
+    {
+      "id": "00-mixed-review",
+      "title": "Mixed review",
+      "course": null,
+      "count": 25,
+      "target": 20,
+      "file": "data/tests/00-mixed-review.json"
+    },
+    {
+      "id": "01-mobile-application-design",
+      "title": "Mobile Application Design",
+      "course": "mobile-application-design",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/01-mobile-application-design.json"
+    },
+    {
+      "id": "02-digital-publication-design-1",
+      "title": "Digital Publication Design 1",
+      "course": "digital-publication-design-1",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/02-digital-publication-design-1.json"
+    },
+    {
+      "id": "03-game-design",
+      "title": "Game Design",
+      "course": "game-design",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/03-game-design.json"
+    },
+    {
+      "id": "04-storyboarding",
+      "title": "Storyboarding",
+      "course": "storyboarding",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/04-storyboarding.json"
+    },
+    {
+      "id": "05-3d-animation-design",
+      "title": "3D Animation Design",
+      "course": "3d-animation-design",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/05-3d-animation-design.json"
+    },
+    {
+      "id": "06-history-of-fine-arts-and-design",
+      "title": "History of Fine Arts and Design",
+      "course": "history-of-fine-arts-and-design",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/06-history-of-fine-arts-and-design.json"
+    },
+    {
+      "id": "07-presentation-skills",
+      "title": "Presentation Skills",
+      "course": "presentation-skills",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/07-presentation-skills.json"
+    },
+    {
+      "id": "08-multimedia-product-design-project",
+      "title": "Multimedia Product Design Project",
+      "course": "multimedia-product-design-project",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/08-multimedia-product-design-project.json"
+    },
+    {
+      "id": "09-digital-publication-design-2",
+      "title": "Digital Publication Design 2",
+      "course": "digital-publication-design-2",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/09-digital-publication-design-2.json"
+    },
+    {
+      "id": "10-digital-copyright",
+      "title": "Digital Copyright",
+      "course": "digital-copyright",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/10-digital-copyright.json"
+    },
+    {
+      "id": "11-scientific-research-methodology",
+      "title": "Scientific Research Methodology",
+      "course": "scientific-research-methodology",
+      "count": 30,
+      "target": 24,
+      "file": "data/tests/11-scientific-research-methodology.json"
+    },
+    {
+      "id": "12-camera-movement-and-lens-effects",
+      "title": "Camera Movement and Lens Effects",
+      "course": "graduation-project",
+      "count": 30,
+      "target": 26,
+      "file": "data/tests/12-camera-movement-and-lens-effects.json"
+    }
+  ]
+}

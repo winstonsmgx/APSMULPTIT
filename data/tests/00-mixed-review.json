@@ -1,0 +1,258 @@
+{
+ "id": "00-mixed-review",
+ "title": "Mixed review",
+ "course": null,
+ "target": 20,
+ "questions": [
+  {
+   "q": "Minimum recommended touch target in Apple's HIG?",
+   "options": [
+    "32 pt",
+    "44 pt",
+    "48 pt",
+    "60 pt"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Minimum recommended touch target in Material Design?",
+   "options": [
+    "36 dp",
+    "40 dp",
+    "48 dp",
+    "56 dp"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A low-fidelity layout that shows structure without visual style is a…",
+   "options": [
+    "Mockup",
+    "Prototype",
+    "Wireframe",
+    "Style guide"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A loading spinner follows which Nielsen heuristic?",
+   "options": [
+    "Error prevention",
+    "Visibility of system status",
+    "Aesthetic and minimalist design",
+    "Recognition rather than recall"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "WCAG AA minimum contrast for normal body text?",
+   "options": [
+    "2:1",
+    "3:1",
+    "4.5:1",
+    "7:1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Colour mode for screen publications?",
+   "options": [
+    "CMYK",
+    "RGB",
+    "Pantone",
+    "Grayscale"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A layout where text adapts to the screen and user settings is…",
+   "options": [
+    "Fixed layout",
+    "Reflowable layout",
+    "Print layout",
+    "Bleed layout"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Comfortable line length for body text?",
+   "options": [
+    "20–30 characters",
+    "45–75 characters",
+    "90–120 characters",
+    "Any length"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The space between columns is the…",
+   "options": [
+    "Margin",
+    "Leading",
+    "Gutter",
+    "Bleed"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "MDA stands for…",
+   "options": [
+    "Mechanics, Dynamics, Aesthetics",
+    "Motion, Design, Animation",
+    "Mechanics, Design, Art",
+    "Media, Data, Audio"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A player is in \"flow\" when…",
+   "options": [
+    "The game is very easy",
+    "Challenge matches skill",
+    "There are no rules",
+    "The game is very hard"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "UI that exists inside the game world (e.g. ammo shown on the gun) is…",
+   "options": [
+    "Non-diegetic",
+    "Diegetic",
+    "HUD",
+    "Meta UI"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A shot that shows where a scene takes place is the…",
+   "options": [
+    "Close-up",
+    "Establishing shot",
+    "Insert shot",
+    "Over-the-shoulder"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The 180-degree rule keeps…",
+   "options": [
+    "Lighting consistent",
+    "Screen direction consistent",
+    "Colour consistent",
+    "Frame rate consistent"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A timed storyboard with sound is a(n)…",
+   "options": [
+    "Shot list",
+    "Animatic",
+    "Script",
+    "Moodboard"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A low-angle shot makes the subject look…",
+   "options": [
+    "Weak",
+    "Powerful",
+    "Distant",
+    "Blurred"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Flattening a 3D surface to 2D for texturing is…",
+   "options": [
+    "Rigging",
+    "UV unwrapping",
+    "Rendering",
+    "Retopology"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The animation principle that prepares the audience for an action is…",
+   "options": [
+    "Follow-through",
+    "Anticipation",
+    "Exaggeration",
+    "Staging"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In three-point lighting, the light that separates the subject from the background is the…",
+   "options": [
+    "Key light",
+    "Fill light",
+    "Back (rim) light",
+    "Ambient light"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which school was founded by Walter Gropius in 1919?",
+   "options": [
+    "De Stijl",
+    "Bauhaus",
+    "Art Nouveau",
+    "Constructivism"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Piet Mondrian is associated with…",
+   "options": [
+    "Pop Art",
+    "De Stijl",
+    "Impressionism",
+    "Cubism"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Grid-based layouts, sans-serif type and objective style in the 1950s define…",
+   "options": [
+    "Swiss / International Typographic Style",
+    "Art Nouveau",
+    "Postmodernism",
+    "Arts and Crafts"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "EPUB 3 is built on…",
+   "options": [
+    "PostScript",
+    "HTML5 and CSS",
+    "JPEG",
+    "Flash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Copyright protects…",
+   "options": [
+    "Ideas",
+    "The expression of ideas",
+    "Brand names only",
+    "Inventions"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Interviewing 5 users in depth is an example of…",
+   "options": [
+    "Quantitative research",
+    "Qualitative research",
+    "A/B testing",
+    "Statistical sampling"
+   ],
+   "answer": 1
+  }
+ ]
+}

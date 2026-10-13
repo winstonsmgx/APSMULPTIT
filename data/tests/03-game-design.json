@@ -1,0 +1,308 @@
+{
+ "id": "03-game-design",
+ "title": "Game Design",
+ "course": "game-design",
+ "target": 24,
+ "questions": [
+  {
+   "q": "Which is NOT a core element of a game?",
+   "options": [
+    "Goals",
+    "Rules",
+    "Feedback",
+    "A large budget"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "MDA stands for…",
+   "options": [
+    "Mechanics, Dynamics, Aesthetics",
+    "Motion, Design, Animation",
+    "Media, Data, Audio",
+    "Mechanics, Design, Art"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In MDA, designers build the game starting from…",
+   "options": [
+    "Aesthetics",
+    "Dynamics",
+    "Mechanics",
+    "Marketing"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Players experience a game first through its…",
+   "options": [
+    "Mechanics",
+    "Aesthetics",
+    "Code",
+    "GDD"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A time limit in a level is an example of a…",
+   "options": [
+    "Aesthetic",
+    "Dynamic",
+    "Mechanic",
+    "Genre"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Players rushing and panicking as the timer runs out is a…",
+   "options": [
+    "Mechanic",
+    "Dynamic",
+    "Asset",
+    "Level"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A core loop is…",
+   "options": [
+    "The main repeated cycle of play",
+    "The ending cutscene",
+    "The loading screen",
+    "The settings menu"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A player is in flow when…",
+   "options": [
+    "The challenge is far too high",
+    "The challenge matches their skill",
+    "There are no goals",
+    "There is no feedback"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A challenge far above the player's skill causes…",
+   "options": [
+    "Boredom",
+    "Anxiety and frustration",
+    "Flow",
+    "Relaxation"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A challenge far below the player's skill causes…",
+   "options": [
+    "Boredom",
+    "Anxiety",
+    "Flow",
+    "Fear"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The Bartle player type who enjoys discovering the game world is the…",
+   "options": [
+    "Achiever",
+    "Killer",
+    "Socialiser",
+    "Explorer"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The Bartle player type motivated by points, levels and completion is the…",
+   "options": [
+    "Explorer",
+    "Achiever",
+    "Socialiser",
+    "Killer"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Socialisers mainly enjoy…",
+   "options": [
+    "Interacting with other players",
+    "Defeating other players",
+    "Completing 100% of the game",
+    "Speedrunning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "GDD stands for…",
+   "options": [
+    "Game Design Document",
+    "Graphic Design Draft",
+    "Game Development Deadline",
+    "Global Design Directory"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The purpose of a paper prototype is to…",
+   "options": [
+    "Produce the final art",
+    "Test rules cheaply before coding",
+    "Market the game",
+    "Sell the game"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Playtesting means…",
+   "options": [
+    "Watching real players play to find problems",
+    "The designer playing alone for fun",
+    "Writing online reviews",
+    "Compiling the code"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A difficulty curve describes…",
+   "options": [
+    "A curve in the artwork",
+    "The file size",
+    "How challenge changes across the game",
+    "A sound wave"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The best way to teach players new mechanics is usually…",
+   "options": [
+    "A long text manual at the start",
+    "Step-by-step teaching through play",
+    "No guidance at all",
+    "A video before the game"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Good game balance means…",
+   "options": [
+    "All items are identical",
+    "The game is always easy",
+    "Results are random",
+    "Choices are fair and meaningful, with no single dominant strategy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A HUD is…",
+   "options": [
+    "A level",
+    "An enemy type",
+    "A head-up display showing health, score or map",
+    "A sound effect"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diegetic UI is…",
+   "options": [
+    "Interface that exists inside the game world, e.g. an ammo counter on the gun",
+    "An overlay menu",
+    "The loading screen",
+    "The pause menu"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which is an example of non-diegetic UI?",
+   "options": [
+    "A clock on a wall in the game world",
+    "A dashboard inside the car model",
+    "A map the character holds",
+    "A health bar overlaid in the corner of the screen"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Game feel\" or \"juice\" refers to…",
+   "options": [
+    "Monetisation",
+    "The story",
+    "Feedback through animation, sound and effects",
+    "The number of levels"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which game is a puzzle game?",
+   "options": [
+    "FIFA",
+    "Call of Duty",
+    "Age of Empires",
+    "Tetris"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A serious game is…",
+   "options": [
+    "A very hard game",
+    "An esports title",
+    "A game with a purpose beyond entertainment, such as education or training",
+    "A horror game"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Unity, Unreal and Godot are…",
+   "options": [
+    "Art styles",
+    "Game engines",
+    "Genres",
+    "Consoles"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pacing in game design is…",
+   "options": [
+    "The frame rate",
+    "The price",
+    "The file format",
+    "The rhythm of intense and calm moments"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Progression systems (XP, levels, unlocks) mainly…",
+   "options": [
+    "Reduce file size",
+    "Replace the story",
+    "Give players long-term goals and a sense of growth",
+    "Make the game shorter"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Level design is…",
+   "options": [
+    "Composing the music",
+    "Designing spaces, challenges and the flow of a level",
+    "Writing only code",
+    "Marketing the game"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A sprite is…",
+   "options": [
+    "A 3D engine",
+    "A sound file",
+    "A script",
+    "A 2D image or animation frame used in a game"
+   ],
+   "answer": 3
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "id": "05-3d-animation-design",
+ "title": "3D Animation Design",
+ "course": "3d-animation-design",
+ "target": 24,
+ "questions": [
+  {
+   "q": "Which is the correct 3D production order?",
+   "options": [
+    "Rendering → modeling → rigging → texturing",
+    "Modeling → UV → texturing → rigging → animation → lighting → rendering",
+    "Animation → modeling → texturing → rigging",
+    "Lighting → rigging → modeling → UV"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A polygon mesh is made of…",
+   "options": [
+    "Pixels, layers and masks",
+    "Keyframes, curves and tangents",
+    "Vertices, edges and faces",
+    "Bones, joints and weights"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Topology means…",
+   "options": [
+    "How polygons are arranged and flow across a model",
+    "The colour of the model",
+    "The render resolution",
+    "The camera position"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Good topology matters mainly because the model…",
+   "options": [
+    "Renders in colour",
+    "Has a smaller texture",
+    "Needs no lights",
+    "Deforms cleanly when animated"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sculpting is…",
+   "options": [
+    "Placing lights",
+    "Shaping high-detail models like digital clay",
+    "Setting keyframes",
+    "Exporting video"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A low-poly model…",
+   "options": [
+    "Uses few polygons and suits games and real-time use",
+    "Has the highest detail",
+    "Cannot be textured",
+    "Is only used in film"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "UV unwrapping is…",
+   "options": [
+    "Adding bones",
+    "Rendering the scene",
+    "Flattening a 3D surface to 2D so a texture can be applied",
+    "Removing polygons"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A normal map…",
+   "options": [
+    "Sets the base colour",
+    "Controls transparency",
+    "Adds bones",
+    "Fakes surface detail such as bumps without extra polygons"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "An albedo (diffuse) map defines…",
+   "options": [
+    "Shininess",
+    "The base colour of the surface",
+    "Bone weights",
+    "Camera focus"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A roughness map controls…",
+   "options": [
+    "How shiny or matte the surface looks",
+    "The model's size",
+    "Animation speed",
+    "Polygon count"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "PBR stands for…",
+   "options": [
+    "Polygon Based Rigging",
+    "Primary Bone Rotation",
+    "Physically Based Rendering",
+    "Pixel Bitmap Resolution"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rigging is…",
+   "options": [
+    "Painting textures",
+    "Building a skeleton and controls so a model can be animated",
+    "Lighting the scene",
+    "Editing the final video"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Skinning (weight painting) defines…",
+   "options": [
+    "The model's colour",
+    "The camera path",
+    "The render engine",
+    "How much each bone influences each vertex"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "In forward kinematics (FK), the animator…",
+   "options": [
+    "Rotates each joint in turn from the root to the end of the chain",
+    "Moves only the hand and the arm follows",
+    "Uses no joints",
+    "Records real actors"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In inverse kinematics (IK), the animator…",
+   "options": [
+    "Rotates every joint by hand",
+    "Paints weights",
+    "Moves the end of the chain and the joints are solved automatically",
+    "Sets the frame rate"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "IK is especially useful for…",
+   "options": [
+    "Changing colours",
+    "Keeping feet planted on the ground",
+    "Rendering faster",
+    "Modeling faces"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A keyframe is…",
+   "options": [
+    "The first frame only",
+    "A rendered image",
+    "A camera type",
+    "A frame where the animator sets a value"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Interpolation is when…",
+   "options": [
+    "The software calculates the in-between frames",
+    "The animator draws every frame",
+    "Textures are mapped",
+    "Lights are placed"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The graph editor is used to…",
+   "options": [
+    "Model faces",
+    "Paint textures",
+    "Edit animation curves for timing and easing",
+    "Set render resolution"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Squash and stretch shows…",
+   "options": [
+    "Camera movement",
+    "Weight and flexibility of an object",
+    "Lighting direction",
+    "Colour change"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Anticipation is…",
+   "options": [
+    "The final pose",
+    "A camera shake",
+    "A colour shift",
+    "A small preparatory movement before the main action"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Slow in and slow out means…",
+   "options": [
+    "More frames at the start and end of a movement, so it accelerates and decelerates naturally",
+    "The whole animation is slow",
+    "The film is played backwards",
+    "The camera zooms slowly"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Follow-through and overlapping action means…",
+   "options": [
+    "The character stops completely at once",
+    "The camera follows the actor",
+    "Parts like hair and clothes keep moving after the body stops",
+    "Two characters overlap on screen"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The principle of arcs says that natural movement…",
+   "options": [
+    "Follows straight lines",
+    "Follows curved paths",
+    "Has no timing",
+    "Happens at constant speed"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pose-to-pose animation means…",
+   "options": [
+    "Drawing every frame in order from start to end",
+    "Using motion capture only",
+    "Animating without keyframes",
+    "Setting key poses first, then filling the in-betweens"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The standard frame rate for film is…",
+   "options": [
+    "24 fps",
+    "12 fps",
+    "60 fps",
+    "120 fps"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In three-point lighting, the key light is…",
+   "options": [
+    "The light behind the subject",
+    "A light that fills shadows",
+    "The main, strongest light source",
+    "The room's ambient light"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The fill light…",
+   "options": [
+    "Is the strongest light",
+    "Softens the shadows created by the key light",
+    "Separates the subject from the background",
+    "Lights only the floor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ray tracing…",
+   "options": [
+    "Is a modeling tool",
+    "Removes shadows",
+    "Is a type of rig",
+    "Simulates light paths for realistic reflections and shadows, but takes longer"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Render passes are…",
+   "options": [
+    "Separate image layers (shadows, reflections, occlusion) combined later in compositing",
+    "Camera movements",
+    "Animation curves",
+    "Texture files only"
+   ],
+   "answer": 0
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "id": "12-camera-movement-and-lens-effects",
+ "title": "Camera Movement and Lens Effects",
+ "course": "graduation-project",
+ "target": 26,
+ "questions": [
+  {
+   "q": "In 2D animation, camera movement is created by…",
+   "options": [
+    "A physical camera on set",
+    "Moving, scaling and transforming the layers",
+    "Printing frames",
+    "Adding sound"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"2.5D\" means…",
+   "options": [
+    "A half-finished animation",
+    "2D animation at 25 fps",
+    "Only 3D models",
+    "Flat 2D layers arranged in 3D space to fake depth"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Parallax means that…",
+   "options": [
+    "Near layers move faster than far layers",
+    "All layers move at the same speed",
+    "Far layers move faster",
+    "Layers change colour"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "During a sideways camera move, which layer moves fastest on screen?",
+   "options": [
+    "The sky",
+    "Distant mountains",
+    "Foreground objects",
+    "All move equally"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A wide-angle lens (short focal length) makes space look…",
+   "options": [
+    "Flatter and compressed",
+    "Deeper, exaggerating the distance between near and far",
+    "Black and white",
+    "Out of focus"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A telephoto lens (long focal length)…",
+   "options": [
+    "Exaggerates depth",
+    "Shows a very wide view",
+    "Causes fisheye distortion",
+    "Compresses space, so the background looks closer to the subject"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bokeh is…",
+   "options": [
+    "The quality of out-of-focus blur, often soft circles of light",
+    "A camera move",
+    "A type of transition",
+    "A colour grade"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chromatic aberration is…",
+   "options": [
+    "Motion blur",
+    "A vignette",
+    "Red and blue colour fringes at high-contrast edges",
+    "A lens flare"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A zoom in 2D animation…",
+   "options": [
+    "Moves the camera through the layers",
+    "Scales the whole image, with no parallax change",
+    "Changes the focus",
+    "Rotates the image"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A push-in (dolly) in a 2.5D scene…",
+   "options": [
+    "Scales the image flatly",
+    "Changes the colours",
+    "Only adds blur",
+    "Moves the camera forward through the layers, changing parallax"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The dolly zoom effect makes…",
+   "options": [
+    "The subject stay the same size while the background stretches or compresses",
+    "Everything blur",
+    "The frame rotate",
+    "The image turn black and white"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The dolly zoom was first made famous in…",
+   "options": [
+    "*Star Wars*",
+    "*Toy Story*",
+    "Hitchcock's *Vertigo* (1958)",
+    "*The Lion King*"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A pan is…",
+   "options": [
+    "A vertical turn",
+    "A horizontal turn from a fixed point",
+    "A forward move",
+    "A roll of the frame"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A truck is when the camera…",
+   "options": [
+    "Tilts up",
+    "Zooms in",
+    "Rotates",
+    "Moves sideways"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A camera roll…",
+   "options": [
+    "Rotates the frame around the lens axis, tilting the horizon",
+    "Moves forward",
+    "Changes focus",
+    "Adds motion blur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A whip pan is…",
+   "options": [
+    "A very slow pan",
+    "A static shot",
+    "A very fast pan with motion blur, often used as a transition",
+    "A zoom out"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A rack focus…",
+   "options": [
+    "Shakes the camera",
+    "Shifts focus from one subject to another",
+    "Changes the frame rate",
+    "Crops the image"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Depth of field is…",
+   "options": [
+    "The colour depth",
+    "The frame rate",
+    "The resolution",
+    "The range of distance that appears sharp"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A shallow depth of field…",
+   "options": [
+    "Isolates the subject from a blurred background",
+    "Makes everything sharp",
+    "Speeds up the animation",
+    "Removes colour"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In After Effects, which camera setting decides which distance is sharp?",
+   "options": [
+    "Aperture",
+    "Blur level",
+    "Focus distance",
+    "Zoom"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In After Effects, the aperture setting controls…",
+   "options": [
+    "The frame rate",
+    "How strong the depth-of-field blur is",
+    "Only exposure",
+    "Colour"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Motion blur is…",
+   "options": [
+    "Blur over the whole frame",
+    "Dirt on the lens",
+    "Fog",
+    "Blur along the direction of fast movement"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shutter angle controls…",
+   "options": [
+    "The length of motion blur trails",
+    "The camera's height",
+    "Colour temperature",
+    "Resolution"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Camera shake usually communicates…",
+   "options": [
+    "Calm",
+    "Romance",
+    "Impact, chaos or handheld realism",
+    "Slow passing of time"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A vignette…",
+   "options": [
+    "Brightens the edges of the frame",
+    "Darkens the edges of the frame to draw the eye to the centre",
+    "Adds colour fringes",
+    "Sharpens the image"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Barrel (fisheye) lens distortion…",
+   "options": [
+    "Keeps straight lines perfectly straight",
+    "Only affects colour",
+    "Removes blur",
+    "Bends straight lines outward, typical of very wide lenses"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Easing means…",
+   "options": [
+    "Gradual acceleration and deceleration of a move",
+    "Constant speed",
+    "Removing keyframes",
+    "Reducing file size"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The graph editor is used to…",
+   "options": [
+    "Change colours",
+    "Edit text",
+    "Refine speed and value curves of the animation",
+    "Export video"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A slow push-in usually…",
+   "options": [
+    "Reveals the whole environment",
+    "Builds tension or focuses on emotion",
+    "Shows time passing",
+    "Ends the film"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The main rule for camera moves and lens effects is that…",
+   "options": [
+    "The camera should always move",
+    "More effects are always better",
+    "Effects can be random",
+    "Every move and effect should be motivated by story, emotion or information"
+   ],
+   "answer": 3
+  }
+ ]
+}

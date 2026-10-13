@@ -1,0 +1,308 @@
+{
+ "id": "02-digital-publication-design-1",
+ "title": "Digital Publication Design 1",
+ "course": "digital-publication-design-1",
+ "target": 24,
+ "questions": [
+  {
+   "q": "The colour mode used for printing is…",
+   "options": [
+    "RGB",
+    "CMYK",
+    "HEX",
+    "HSL"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The colour mode used for screens is…",
+   "options": [
+    "CMYK",
+    "Pantone",
+    "RGB",
+    "Spot colour"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The standard resolution for print images is…",
+   "options": [
+    "72 ppi",
+    "150 ppi",
+    "300 ppi",
+    "1200 ppi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "For images in a screen publication, what matters most?",
+   "options": [
+    "Pixel dimensions",
+    "The ppi value in the file",
+    "The CMYK profile",
+    "The paper type"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A grid with one large text block, typical for books, is a…",
+   "options": [
+    "Modular grid",
+    "Column grid",
+    "Hierarchical grid",
+    "Manuscript grid"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A grid of columns and rows forming cells is a…",
+   "options": [
+    "Manuscript grid",
+    "Baseline grid",
+    "Modular grid",
+    "Single-column grid"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A baseline grid is used to align…",
+   "options": [
+    "Images to page edges",
+    "Lines of text across columns",
+    "Margins between pages",
+    "Colours in a palette"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The gutter is…",
+   "options": [
+    "The outer margin",
+    "The top margin",
+    "The page number area",
+    "The space between columns"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Leading is…",
+   "options": [
+    "The vertical space between lines of text",
+    "The space between letters",
+    "The paragraph indent",
+    "The page margin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kerning adjusts…",
+   "options": [
+    "The space between specific pairs of letters",
+    "The space between lines",
+    "The font size",
+    "The font weight"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tracking adjusts…",
+   "options": [
+    "The space between lines",
+    "Letter spacing evenly across a word, line or paragraph",
+    "The space between paragraphs",
+    "The baseline position"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A comfortable line length for body text is about…",
+   "options": [
+    "20–30 characters",
+    "30–40 characters",
+    "45–75 characters",
+    "More than 100 characters"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Comfortable leading for body text is usually…",
+   "options": [
+    "80% of the font size",
+    "100% of the font size",
+    "About 120–145% of the font size",
+    "300% of the font size"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which is a serif typeface?",
+   "options": [
+    "Helvetica",
+    "Futura",
+    "Arial",
+    "Times New Roman"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which is a sans-serif typeface?",
+   "options": [
+    "Garamond",
+    "Baskerville",
+    "Helvetica",
+    "Georgia"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Display typefaces are best used for…",
+   "options": [
+    "Long body text",
+    "Headlines and large sizes",
+    "Footnotes",
+    "Captions under photos"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The Gestalt principle that items close together are seen as a group is…",
+   "options": [
+    "Similarity",
+    "Closure",
+    "Continuity",
+    "Proximity"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Items with the same colour or shape are seen as related because of…",
+   "options": [
+    "Proximity",
+    "Continuity",
+    "Similarity",
+    "Figure-ground"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "White space in a layout…",
+   "options": [
+    "Is wasted space",
+    "Improves readability and focus",
+    "Is only needed in print",
+    "Is only for printer margins"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Visual hierarchy is created through…",
+   "options": [
+    "Size, weight, colour and position",
+    "The file format",
+    "The number of pages",
+    "The printer model"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A raster image…",
+   "options": [
+    "Is made of pixels and loses quality when enlarged",
+    "Is made of mathematical paths",
+    "Contains only text",
+    "Is always transparent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A vector image…",
+   "options": [
+    "Is made of pixels",
+    "Uses paths that scale without losing quality",
+    "Can only be a photo",
+    "Is always a JPEG"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The best format for photos with a small file size is…",
+   "options": [
+    "SVG",
+    "EPS",
+    "TXT",
+    "JPEG"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A common screen format that supports transparency is…",
+   "options": [
+    "JPEG",
+    "PNG",
+    "BMP",
+    "CMYK TIFF"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fixed layout is most suitable for…",
+   "options": [
+    "Novels",
+    "Magazines, comics and picture books",
+    "Dictionaries",
+    "Plain-text documents"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In a reflowable layout…",
+   "options": [
+    "Every page looks identical on all devices",
+    "The format is only for print",
+    "Users cannot change the font size",
+    "Text adapts to the screen size and user settings"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "In InDesign, master (parent) pages are…",
+   "options": [
+    "The cover only",
+    "The exported PDF",
+    "Templates whose elements repeat on many pages",
+    "The first page only"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The main benefit of paragraph styles is…",
+   "options": [
+    "Consistent formatting and fast global changes",
+    "Larger file size",
+    "Adding images automatically",
+    "Changing the colour mode"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Preflight means…",
+   "options": [
+    "Printing a sample copy",
+    "Designing the cover",
+    "Writing the text",
+    "Checking fonts, links, images and colour before export"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Widows and orphans are…",
+   "options": [
+    "Image file types",
+    "Colour errors",
+    "Single lines of a paragraph left alone at the top or bottom of a column",
+    "Font families"
+   ],
+   "answer": 2
+  }
+ ]
+}

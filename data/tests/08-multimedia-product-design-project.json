@@ -1,0 +1,308 @@
+{
+ "id": "08-multimedia-product-design-project",
+ "title": "Multimedia Product Design Project",
+ "course": "multimedia-product-design-project",
+ "target": 24,
+ "questions": [
+  {
+   "q": "Multimedia combines…",
+   "options": [
+    "Only text",
+    "Text, images, audio, video, animation and interactivity",
+    "Only video",
+    "Only print"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Interactive multimedia means…",
+   "options": [
+    "The user only watches",
+    "It is printed",
+    "It has no sound",
+    "The user controls navigation or content"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Linear multimedia is…",
+   "options": [
+    "Presented in a fixed sequence, like a film",
+    "Controlled by the user's choices",
+    "Always a game",
+    "Only text"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which is an example of non-linear multimedia?",
+   "options": [
+    "A film in a cinema",
+    "A radio broadcast",
+    "A website or interactive app",
+    "A printed poster"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The usual order of project phases is…",
+   "options": [
+    "Pre-production → production → post-production → delivery",
+    "Delivery → production → pre-production",
+    "Production → delivery → pre-production",
+    "Post-production → pre-production → delivery"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Pre-production includes…",
+   "options": [
+    "Rendering",
+    "Final export",
+    "Publishing",
+    "Research, concept, script, storyboard and planning"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Post-production includes…",
+   "options": [
+    "Writing the brief",
+    "Editing, effects, colour, sound mixing and testing",
+    "Interviewing users",
+    "Only budgeting"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A design brief is…",
+   "options": [
+    "The final product",
+    "An invoice",
+    "A document defining goals, audience, scope, timeline and deliverables",
+    "Source code"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The four stages of the Double Diamond are…",
+   "options": [
+    "Plan, Build, Test, Ship",
+    "Draw, Paint, Print, Sell",
+    "Research, Code, Deploy, Fix",
+    "Discover, Define, Develop, Deliver"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "In the Double Diamond, \"diverge\" and \"converge\" mean…",
+   "options": [
+    "Both mean narrowing down",
+    "Exploring many options, then narrowing to the best",
+    "Only coding phases",
+    "The same thing"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A moodboard is…",
+   "options": [
+    "A collection of images, colours and type that sets the visual direction",
+    "A task list",
+    "A budget sheet",
+    "A user survey"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Defining the target audience matters because it…",
+   "options": [
+    "Is not needed",
+    "Only helps marketing",
+    "Guides content, style and media choices",
+    "Increases file size"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Project scope describes…",
+   "options": [
+    "The logo",
+    "What is included in and excluded from the project",
+    "The font",
+    "The render engine"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A Gantt chart shows…",
+   "options": [
+    "A colour palette",
+    "An organisation chart",
+    "A code flowchart",
+    "Tasks and their durations on a timeline"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A milestone is…",
+   "options": [
+    "A significant checkpoint in the project",
+    "A type of file",
+    "A colour code",
+    "A team member"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "H.264 is…",
+   "options": [
+    "An image format",
+    "A font",
+    "A video compression standard",
+    "An audio-only format"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A common video container format is…",
+   "options": [
+    "JPEG",
+    "MP4",
+    "SVG",
+    "TTF"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A common compressed audio format is…",
+   "options": [
+    "PNG",
+    "GIF",
+    "PSD",
+    "MP3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A common frame rate for web video is…",
+   "options": [
+    "24–30 fps",
+    "5 fps",
+    "240 fps",
+    "1 fps"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Full HD resolution is…",
+   "options": [
+    "640×480",
+    "1280×720",
+    "1920×1080",
+    "3840×2160"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The aspect ratio of HD video is…",
+   "options": [
+    "4:3",
+    "16:9",
+    "1:1",
+    "21:9"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Video bitrate mainly affects…",
+   "options": [
+    "Colour mode",
+    "Fonts",
+    "Aspect ratio",
+    "Quality and file size"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A prototype in a multimedia project is used to…",
+   "options": [
+    "Test ideas before full production",
+    "Replace the final product",
+    "Sell the product",
+    "Store files"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Usability testing means…",
+   "options": [
+    "Checking spelling",
+    "A legal review",
+    "Observing users perform tasks to find problems",
+    "Testing the server"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Iteration means…",
+   "options": [
+    "Finishing in one attempt",
+    "Repeating design–test–improve cycles",
+    "Deleting the project",
+    "Printing the final version"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In multimedia production, an asset is…",
+   "options": [
+    "Company money",
+    "A building",
+    "A team member",
+    "Any media file used in the product, such as images, audio or fonts"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Clear file naming and version control in a team…",
+   "options": [
+    "Prevent confusion and lost work",
+    "Slow the project",
+    "Are only for programmers",
+    "Increase file size"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Accessibility in multimedia includes…",
+   "options": [
+    "Optional decoration",
+    "Only colour choice",
+    "Captions, alt text, contrast and keyboard access",
+    "Larger files"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "An art director mainly…",
+   "options": [
+    "Writes code",
+    "Leads the visual style and creative decisions",
+    "Manages finances",
+    "Tests hardware"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A final product should be evaluated by…",
+   "options": [
+    "Only the designer's opinion",
+    "File size",
+    "The number of colours",
+    "Whether it meets the brief's goals and users' needs"
+   ],
+   "answer": 3
+  }
+ ]
+}

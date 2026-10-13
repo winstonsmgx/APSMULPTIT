@@ -1,0 +1,308 @@
+{
+ "id": "06-history-of-fine-arts-and-design",
+ "title": "History of Fine Arts and Design",
+ "course": "history-of-fine-arts-and-design",
+ "target": 24,
+ "questions": [
+  {
+   "q": "Linear perspective was developed during the…",
+   "options": [
+    "Renaissance",
+    "Baroque",
+    "Pop Art period",
+    "Cubist period"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The Mona Lisa was painted by…",
+   "options": [
+    "Michelangelo",
+    "Raphael",
+    "Leonardo da Vinci",
+    "Claude Monet"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The Sistine Chapel ceiling was painted by…",
+   "options": [
+    "Leonardo da Vinci",
+    "Michelangelo",
+    "Botticelli",
+    "Picasso"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Impressionism focuses on…",
+   "options": [
+    "Strict geometric forms",
+    "Religious stories",
+    "Mass-media images",
+    "Light, colour and momentary impressions with visible brushstrokes"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The painting that gave Impressionism its name, *Impression, Sunrise*, is by…",
+   "options": [
+    "Claude Monet",
+    "Vincent van Gogh",
+    "Paul Cézanne",
+    "Edgar Degas"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The leader of the Arts and Crafts movement was…",
+   "options": [
+    "Walter Gropius",
+    "Andy Warhol",
+    "William Morris",
+    "Piet Mondrian"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The Arts and Crafts movement reacted against…",
+   "options": [
+    "Digital design",
+    "Low-quality mass production in the industrial age",
+    "Renaissance painting",
+    "Pop culture"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Art Nouveau is characterised by…",
+   "options": [
+    "Primary colours and straight lines",
+    "Bold sans-serif type and grids",
+    "Comic-book imagery",
+    "Organic curves and motifs from nature"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A famous Art Nouveau poster artist is…",
+   "options": [
+    "Alphonse Mucha",
+    "David Carson",
+    "Josef Müller-Brockmann",
+    "El Lissitzky"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Cubism was founded by…",
+   "options": [
+    "Monet and Renoir",
+    "Picasso and Braque",
+    "Warhol and Lichtenstein",
+    "Gropius and Mies van der Rohe"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Cubism shows…",
+   "options": [
+    "Realistic perspective",
+    "Soft light effects",
+    "Several viewpoints at once using geometric forms",
+    "Advertising images"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Constructivism started in…",
+   "options": [
+    "France",
+    "Italy",
+    "the USA",
+    "Russia"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "De Stijl started in…",
+   "options": [
+    "the Netherlands",
+    "Germany",
+    "Switzerland",
+    "Japan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The typical De Stijl palette is…",
+   "options": [
+    "Pastel colours and curves",
+    "Primary colours with black, white and grey, in horizontal and vertical lines",
+    "Neon colours",
+    "Earth tones and textures"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The Bauhaus was founded…",
+   "options": [
+    "In 1890 in Paris",
+    "In 1945 in New York",
+    "In 1919 in Weimar by Walter Gropius",
+    "In 1960 in Zurich"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The main aim of the Bauhaus was to…",
+   "options": [
+    "Revive medieval craft",
+    "Copy Renaissance painting",
+    "Promote decoration",
+    "Unite art, craft and industry, with function first"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The Bauhaus closed in…",
+   "options": [
+    "1933, under Nazi pressure",
+    "1919",
+    "1968",
+    "2000"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The phrase \"form (ever) follows function\" was first stated by the architect…",
+   "options": [
+    "Le Corbusier",
+    "Louis Sullivan",
+    "William Morris",
+    "Andy Warhol"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A key feature of the Swiss (International Typographic) Style is…",
+   "options": [
+    "Decorative ornament",
+    "Hand-lettered type",
+    "Grids, sans-serif type and asymmetric layouts",
+    "Collage and chaos"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which typeface was created in 1957, during the Swiss Style era?",
+   "options": [
+    "Garamond",
+    "Times New Roman",
+    "Comic Sans",
+    "Helvetica"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Josef Müller-Brockmann is best known for…",
+   "options": [
+    "Grid systems in graphic design",
+    "Pop Art screen prints",
+    "Art Nouveau posters",
+    "Cubist paintings"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Pop Art took its imagery from…",
+   "options": [
+    "Religious texts",
+    "Mass media, advertising and consumer products",
+    "Nature",
+    "Classical sculpture"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "*Campbell's Soup Cans* is a work by…",
+   "options": [
+    "Roy Lichtenstein",
+    "Piet Mondrian",
+    "Andy Warhol",
+    "Salvador Dalí"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Postmodern graphic design is known for…",
+   "options": [
+    "Strict grids",
+    "Only black and white",
+    "Ornament from nature",
+    "Breaking rules with layered, expressive, playful type"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "David Carson is known for…",
+   "options": [
+    "Experimental typography in *Ray Gun* magazine",
+    "Founding the Bauhaus",
+    "De Stijl paintings",
+    "Renaissance frescoes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Skeuomorphism in UI means…",
+   "options": [
+    "Using only flat colours",
+    "Imitating real-world materials and textures",
+    "Using no icons",
+    "Text-only interfaces"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Apple moved from skeuomorphic to flat design with…",
+   "options": [
+    "iOS 3",
+    "iOS 5",
+    "iOS 7 (2013)",
+    "iOS 12"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Google introduced Material Design in…",
+   "options": [
+    "2004",
+    "2008",
+    "2011",
+    "2014"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which movement most directly shaped the grids and sans-serif type of modern UI?",
+   "options": [
+    "Swiss / International Typographic Style",
+    "Art Nouveau",
+    "Impressionism",
+    "Baroque"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mondrian's compositions connect most closely to which modern layout idea?",
+   "options": [
+    "Text-only pages",
+    "Modular, block-based layouts",
+    "Skeuomorphic textures",
+    "Hand-drawn lettering"
+   ],
+   "answer": 1
+  }
+ ]
+}

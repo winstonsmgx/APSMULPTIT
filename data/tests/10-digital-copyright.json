@@ -1,0 +1,308 @@
+{
+ "id": "10-digital-copyright",
+ "title": "Digital Copyright",
+ "course": "digital-copyright",
+ "target": 24,
+ "questions": [
+  {
+   "q": "Copyright protects…",
+   "options": [
+    "Ideas",
+    "The original expression of ideas",
+    "Facts",
+    "Names and slogans"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In Vietnam and other Berne countries, copyright arises…",
+   "options": [
+    "Only after registration",
+    "Only after publication",
+    "After paying a fee",
+    "Automatically when the work is created in a fixed form"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Copyright registration in Vietnam is…",
+   "options": [
+    "Optional, but useful as evidence of ownership",
+    "Required before creating",
+    "Only for foreigners",
+    "Impossible"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Moral rights include…",
+   "options": [
+    "Selling copies",
+    "Renting the work",
+    "The right to be named as author and to protect the integrity of the work",
+    "Licensing to companies"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Economic rights include…",
+   "options": [
+    "Being credited",
+    "Reproduction, distribution, adaptation and communication to the public",
+    "Protecting integrity",
+    "Remaining anonymous"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A logo used to identify a brand is mainly protected as a…",
+   "options": [
+    "Copyright only",
+    "Patent",
+    "Trade secret",
+    "Trademark"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A patent protects…",
+   "options": [
+    "Inventions and technical solutions",
+    "Novels",
+    "Logos",
+    "Photographs"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "An industrial design right protects…",
+   "options": [
+    "Source code",
+    "Music",
+    "The appearance or shape of a product",
+    "A brand name"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Related rights protect…",
+   "options": [
+    "Authors only",
+    "Performers, producers of recordings and broadcasters",
+    "Inventors",
+    "Trademark owners"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The Berne Convention is…",
+   "options": [
+    "A tariff agreement",
+    "A Vietnamese domestic law",
+    "A font licence",
+    "An international copyright treaty based on automatic protection"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The Berne minimum protection term for most works is…",
+   "options": [
+    "The author's life + 50 years",
+    "10 years",
+    "20 years from publication",
+    "Forever"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "WIPO stands for…",
+   "options": [
+    "World Internet Protection Office",
+    "World Image Policy Organization",
+    "World Intellectual Property Organization",
+    "Web IP Office"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vietnam's main law on copyright is the…",
+   "options": [
+    "Law on Press",
+    "Law on Intellectual Property 2005 (amended 2009, 2019, 2022)",
+    "Labour Code",
+    "Law on Advertising"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A work in the public domain…",
+   "options": [
+    "Is owned by the government",
+    "Is free only while popular",
+    "Requires a licence",
+    "Is no longer protected and is free to use"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "CC BY means you may use the work…",
+   "options": [
+    "Freely, as long as you credit the author",
+    "Only for non-commercial purposes",
+    "Only without changes",
+    "Without any credit"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"ShareAlike\" (SA) in a Creative Commons licence means…",
+   "options": [
+    "You cannot share it",
+    "You may share it only on social media",
+    "Adaptations must be released under the same licence",
+    "No credit is required"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"NoDerivatives\" (ND) means…",
+   "options": [
+    "No credit needed",
+    "You may share it only unchanged",
+    "No commercial use",
+    "No sharing allowed"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"NonCommercial\" (NC) means…",
+   "options": [
+    "No credit needed",
+    "No changes allowed",
+    "Share alike",
+    "Use for non-commercial purposes only"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "CC0 means…",
+   "options": [
+    "The creator waives their rights, dedicating the work to the public domain",
+    "Credit is required",
+    "Commercial use is banned",
+    "Changes are banned"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Using an image found through Google in a client project is…",
+   "options": [
+    "Always free",
+    "Free if you credit the source",
+    "Allowed only with permission or a suitable licence, unless clearly public domain",
+    "Free if you resize it"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Font licences…",
+   "options": [
+    "Are all the same",
+    "Differ for desktop, web and app use",
+    "Do not exist, fonts are unprotected",
+    "Cover printing only"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Royalty-free\" stock images are…",
+   "options": [
+    "Always free of charge",
+    "Free of any licence",
+    "In the public domain",
+    "Paid for once (per licence) and used within the terms without per-use royalties"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ownership of a commissioned or employment work depends on…",
+   "options": [
+    "The contract or employment terms",
+    "Who has the bigger computer",
+    "Who finished first",
+    "The file format"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The difference between plagiarism and copyright infringement is that…",
+   "options": [
+    "They are the same",
+    "Plagiarism is always a crime",
+    "Plagiarism is presenting others' work as your own (ethics); infringement is using protected work without permission (law)",
+    "Infringement applies only to text"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "DRM is…",
+   "options": [
+    "A set of design rules",
+    "Technical measures that control copying and use",
+    "A licence type",
+    "A file format"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A watermark is…",
+   "options": [
+    "A file format",
+    "A licence",
+    "A colour mode",
+    "A visible or hidden mark identifying the owner and discouraging misuse"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Copyright exceptions allow…",
+   "options": [
+    "Limited uses without permission, such as quotation, teaching or personal study, with attribution",
+    "Any commercial use",
+    "Removing the author's name",
+    "Selling copies freely"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Fair use\" is…",
+   "options": [
+    "A Vietnamese legal term",
+    "A rule that everything online is free",
+    "A US doctrine weighing purpose, amount and market effect",
+    "A Creative Commons licence"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Reposting someone's photo on social media without permission…",
+   "options": [
+    "Is always legal",
+    "May infringe the photographer's copyright",
+    "Is fine if you tag them",
+    "Is fine on a private account"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ownership of AI-generated images is…",
+   "options": [
+    "Always held by the AI",
+    "Public domain everywhere",
+    "Fully settled worldwide",
+    "Legally unsettled and different by country; human authorship is generally required"
+   ],
+   "answer": 3
+  }
+ ]
+}

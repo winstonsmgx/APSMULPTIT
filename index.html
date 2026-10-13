@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>APS Review · Multimedia Graphic Design</title>
+  <meta name="theme-color" content="#F3F5F6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121820" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><path d='M3 11V3h8M21 3h8v8M29 21v8h-8M11 29H3v-8' fill='none' stroke='%23C98A12' stroke-width='3'/><circle cx='16' cy='16' r='4' fill='%230E6F78'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400..800;1,400..600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="topbar">
+    <button class="menu-btn" type="button" aria-controls="sidebar" aria-expanded="false">Menu</button>
+    <a class="brand" href="#/">APS Review</a>
+  </header>
+
+  <div class="shell">
+    <nav id="sidebar" class="sidebar" aria-label="Courses and tests">
+      <a class="brand brand--side" href="#/">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span>APS Review<small>Multimedia Graphic Design</small></span>
+      </a>
+      <div id="nav"></div>
+      <div class="side-foot">
+        <button type="button" class="link-btn" id="export-btn">Back up notes and scores</button>
+        <p class="fine" id="updated"></p>
+      </div>
+    </nav>
+    <div class="scrim" hidden></div>
+
+    <main id="main" class="main" tabindex="-1">
+      <p class="loading">Loading your study data…</p>
+    </main>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

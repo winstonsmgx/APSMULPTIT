@@ -1,0 +1,308 @@
+{
+ "id": "01-mobile-application-design",
+ "title": "Mobile Application Design",
+ "course": "mobile-application-design",
+ "target": 24,
+ "questions": [
+  {
+   "q": "What does UX design mainly focus on?",
+   "options": [
+    "Choosing colours only",
+    "The whole experience of using a product and how easily users reach their goals",
+    "Writing the app's code",
+    "Advertising the product"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which step usually comes first in user-centred design?",
+   "options": [
+    "High-fidelity mockup",
+    "Usability testing",
+    "User research",
+    "Developer handoff"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A persona is…",
+   "options": [
+    "A fictional user profile based on research data",
+    "A real, named customer",
+    "The project's sponsor",
+    "A developer on the team"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The path of screens a user takes to finish one task is a…",
+   "options": [
+    "Sitemap",
+    "Moodboard",
+    "Style guide",
+    "User flow"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A sitemap mainly shows…",
+   "options": [
+    "Users' emotions",
+    "The colour palette",
+    "The source code",
+    "The structure and hierarchy of all screens"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A wireframe is…",
+   "options": [
+    "A low-fidelity layout showing structure without visual style",
+    "A final, pixel-perfect design",
+    "An animated prototype",
+    "Production code"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A clickable simulation used for testing is a…",
+   "options": [
+    "Wireframe",
+    "Sketch",
+    "Prototype",
+    "Persona"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Apple's HIG recommends a minimum touch target of…",
+   "options": [
+    "24×24 pt",
+    "36×36 pt",
+    "44×44 pt",
+    "56×56 pt"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Material Design recommends a minimum touch target of…",
+   "options": [
+    "40×40 dp",
+    "44×44 dp",
+    "48×48 dp",
+    "64×64 dp"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "On Android, \"dp\" means…",
+   "options": [
+    "Design points",
+    "Display pixels",
+    "Density-independent pixels",
+    "Dots per inch"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The default system font on iOS is…",
+   "options": [
+    "Roboto",
+    "San Francisco (SF Pro)",
+    "Arial",
+    "Times New Roman"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The default font in Material Design is…",
+   "options": [
+    "Futura",
+    "SF Pro",
+    "Georgia",
+    "Roboto"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "On iOS, bottom navigation between 3–5 main sections is a…",
+   "options": [
+    "Tab bar",
+    "Breadcrumb",
+    "Carousel",
+    "Pagination"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The main weakness of a hamburger menu is that…",
+   "options": [
+    "It takes too much space",
+    "It hides navigation, so users discover features less",
+    "Android does not support it",
+    "It cannot hold icons"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The thumb zone is…",
+   "options": [
+    "The top status bar",
+    "The notification area",
+    "Where ads are placed",
+    "The area of the screen easy to reach with one thumb"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "An empty state is…",
+   "options": [
+    "A crash screen",
+    "A splash screen",
+    "A loading spinner",
+    "The screen shown when there is no content yet, ideally with guidance"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "An 8-point grid means…",
+   "options": [
+    "The layout has 8 columns",
+    "The app has 8 screens",
+    "The palette has 8 colours",
+    "Sizes and spacing use multiples of 8"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "WCAG AA minimum contrast for normal text is…",
+   "options": [
+    "3:1",
+    "4.5:1",
+    "7:1",
+    "10:1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "WCAG AA minimum contrast for large text is…",
+   "options": [
+    "2:1",
+    "3:1",
+    "4.5:1",
+    "7:1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Using the same icons and words for the same actions everywhere follows which heuristic?",
+   "options": [
+    "Consistency and standards",
+    "Help and documentation",
+    "Help users recover from errors",
+    "Flexibility and efficiency of use"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A \"Saving…\" indicator follows which heuristic?",
+   "options": [
+    "Error prevention",
+    "User control and freedom",
+    "Visibility of system status",
+    "Aesthetic and minimalist design"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A confirmation dialog before deleting follows which heuristic?",
+   "options": [
+    "Error prevention",
+    "Recognition rather than recall",
+    "Match between system and the real world",
+    "Help and documentation"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Showing recent searches so users don't have to remember them follows which heuristic?",
+   "options": [
+    "Consistency and standards",
+    "Flexibility and efficiency of use",
+    "Recognition rather than recall",
+    "Aesthetic and minimalist design"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "According to Nielsen, how many users per test round find most usability problems?",
+   "options": [
+    "About 5",
+    "1",
+    "50",
+    "500"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In a think-aloud test…",
+   "options": [
+    "Users say what they think while doing tasks",
+    "The designer presents the design to users",
+    "A screen reader reads the interface",
+    "Users fill in a long survey afterwards"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A native app is…",
+   "options": [
+    "Only available in a browser",
+    "Unable to work offline",
+    "Installed from an app store and built for one platform's features",
+    "The same as a website"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The safe area is…",
+   "options": [
+    "The secure login screen",
+    "Where ads are not allowed",
+    "Backup storage",
+    "The part of the screen not covered by notches, rounded corners or system bars"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A design system is…",
+   "options": [
+    "An operating system",
+    "A database",
+    "A shared library of components, styles and usage rules",
+    "An animation tool"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Figma's Auto Layout…",
+   "options": [
+    "Generates designs with AI",
+    "Exports production code",
+    "Picks colours automatically",
+    "Arranges elements in a frame so it resizes with its content"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A toast or snackbar is…",
+   "options": [
+    "A full-screen modal",
+    "A brief, non-blocking message that disappears by itself",
+    "The navigation bar",
+    "The splash screen"
+   ],
+   "answer": 1
+  }
+ ]
+}
