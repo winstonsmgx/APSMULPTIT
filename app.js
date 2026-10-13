@@ -19,9 +19,24 @@
     if (!SHEET_URL) return;
     try {
       const res = await fetch(SHEET_URL);
-      const notes = await res.json();
+      const data = await res.json();
+      const notes = data.notes || data;            // older script returned notes only
       Object.entries(notes).forEach(([id, text]) => store.set("note:" + id, text));
-    } catch (e) { console.warn("Google Sheet not reachable, using notes on this device.", e); }
+      const sheetBest = data.best || {};
+      (manifest ? manifest.tests : []).forEach((t) => {
+        const local = best(t.id), remote = sheetBest[t.id];
+        if (remote && (!local || remote.score > local.score)) store.set("best:" + t.id, remote);
+        else if (local && data.best && (!remote || local.score > remote.score)) {
+          saveScoreToSheet(t, local.score, local.total, local.at || Date.now());   // upload scores taken before syncing
+        }
+      });
+      renderNav();
+    } catch (e) { console.warn("Google Sheet not reachable, using data on this device.", e); }
+  }
+  function saveScoreToSheet(test, score, total, at) {
+    if (!SHEET_URL) return;
+    fetch(SHEET_URL, { method: "POST", mode: "no-cors", body: JSON.stringify({ type: "score", id: test.id, test: test.title, score, total, at }) })
+      .catch(() => {});
   }
   function refreshNotesFromSheet() {
     const ta = document.getElementById("note");
@@ -403,6 +418,7 @@
         const h = store.get("hist:" + meta.id, []);
         h.push({ score: correct, total, at: Date.now() });
         store.set("hist:" + meta.id, h.slice(-20));
+        saveScoreToSheet(meta, correct, total, Date.now());
         renderNav();
       }
       const target = isFull ? data.target : total;
