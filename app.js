@@ -12,6 +12,20 @@
   const LETTERS = ["A", "B", "C", "D"];
 
   let manifest = null;
+  const SHEET_URL = (window.APS_CONFIG && window.APS_CONFIG.sheetUrl) || "";
+
+  /* Pull notes from the Google Sheet (if configured) into local storage. */
+  async function loadSheetNotes() {
+    if (!SHEET_URL) return;
+    try {
+      const res = await fetch(SHEET_URL);
+      const notes = await res.json();
+      Object.entries(notes).forEach(([id, text]) => store.set("note:" + id, text));
+    } catch (e) { console.warn("Google Sheet not reachable, using notes on this device.", e); }
+  }
+  function saveToSheet(course, text) {
+    return fetch(SHEET_URL, { method: "POST", mode: "no-cors", body: JSON.stringify({ id: course.id, course: course.title, note: text }) });
+  }
   const cache = new Map();
 
   /* ---------- Storage ---------- */
@@ -227,7 +241,7 @@
       <div class="notes">
         <label for="note">What I did</label>
         <textarea id="note" placeholder="${esc(c.noteHint || "What you made in this course, your role, tools and result")}"></textarea>
-        <p class="fine" id="note-status" aria-live="polite">Saved on this device as you type.</p>
+        <p class="fine" id="note-status" aria-live="polite">${SHEET_URL ? "Saves to your Google Sheet as you type." : "Saved on this device as you type."}</p>
       </div>
       <div class="prose" id="md"></div>`;
 
@@ -238,9 +252,12 @@
     ta.addEventListener("input", () => {
       clearTimeout(timer);
       timer = setTimeout(() => {
-        status.textContent = store.set("note:" + c.id, ta.value)
-          ? "Saved on this device."
-          : "Could not save: this browser is blocking storage.";
+        store.set("note:" + c.id, ta.value);
+        if (!SHEET_URL) { status.textContent = "Saved on this device."; return; }
+        status.textContent = "Saving to your Google Sheet…";
+        saveToSheet(c, ta.value)
+          .then(() => { status.textContent = "Saved to your Google Sheet."; })
+          .catch(() => { status.textContent = "Saved on this device only. The sheet could not be reached."; });
       }, 400);
     });
 
@@ -455,6 +472,7 @@
         <p>If you opened index.html straight from your computer, run a local server instead (see README).</p></div>`;
       return;
     }
+    await loadSheetNotes();
     document.getElementById("updated").textContent = manifest.updated ? `Content updated ${manifest.updated}` : "";
     renderNav();
     window.addEventListener("hashchange", route);
