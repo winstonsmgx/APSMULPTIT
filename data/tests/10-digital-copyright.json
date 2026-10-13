@@ -7,18 +7,18 @@
   {
    "q": "Copyright protects…",
    "options": [
-    "Ideas",
-    "The original expression of ideas",
+    "Names and slogans",
     "Facts",
-    "Names and slogans"
+    "Ideas",
+    "The original expression of ideas"
    ],
-   "answer": 1
+   "answer": 3
   },
   {
    "q": "In Vietnam and other Berne countries, copyright arises…",
    "options": [
-    "Only after registration",
     "Only after publication",
+    "Only after registration",
     "After paying a fee",
     "Automatically when the work is created in a fixed form"
    ],
@@ -27,280 +27,550 @@
   {
    "q": "Copyright registration in Vietnam is…",
    "options": [
+    "Only for foreigners",
     "Optional, but useful as evidence of ownership",
     "Required before creating",
-    "Only for foreigners",
     "Impossible"
    ],
-   "answer": 0
+   "answer": 1
   },
   {
    "q": "Moral rights include…",
    "options": [
+    "Licensing to companies",
     "Selling copies",
     "Renting the work",
-    "The right to be named as author and to protect the integrity of the work",
-    "Licensing to companies"
+    "The right to be named as author and to protect the integrity of the work"
    ],
-   "answer": 2
+   "answer": 3
   },
   {
    "q": "Economic rights include…",
    "options": [
     "Being credited",
+    "Remaining anonymous",
     "Reproduction, distribution, adaptation and communication to the public",
-    "Protecting integrity",
-    "Remaining anonymous"
-   ],
-   "answer": 1
-  },
-  {
-   "q": "A logo used to identify a brand is mainly protected as a…",
-   "options": [
-    "Copyright only",
-    "Patent",
-    "Trade secret",
-    "Trademark"
-   ],
-   "answer": 3
-  },
-  {
-   "q": "A patent protects…",
-   "options": [
-    "Inventions and technical solutions",
-    "Novels",
-    "Logos",
-    "Photographs"
-   ],
-   "answer": 0
-  },
-  {
-   "q": "An industrial design right protects…",
-   "options": [
-    "Source code",
-    "Music",
-    "The appearance or shape of a product",
-    "A brand name"
+    "Protecting integrity"
    ],
    "answer": 2
   },
   {
-   "q": "Related rights protect…",
+   "q": "A logo used to identify a brand is mainly protected as a…",
    "options": [
-    "Authors only",
-    "Performers, producers of recordings and broadcasters",
-    "Inventors",
-    "Trademark owners"
+    "Trade secret",
+    "Copyright only",
+    "Trademark",
+    "Patent"
    ],
-   "answer": 1
-  },
-  {
-   "q": "The Berne Convention is…",
-   "options": [
-    "A tariff agreement",
-    "A Vietnamese domestic law",
-    "A font licence",
-    "An international copyright treaty based on automatic protection"
-   ],
-   "answer": 3
+   "answer": 2
   },
   {
    "q": "The Berne minimum protection term for most works is…",
    "options": [
     "The author's life + 50 years",
-    "10 years",
+    "Forever",
     "20 years from publication",
-    "Forever"
+    "10 years"
    ],
    "answer": 0
-  },
-  {
-   "q": "WIPO stands for…",
-   "options": [
-    "World Internet Protection Office",
-    "World Image Policy Organization",
-    "World Intellectual Property Organization",
-    "Web IP Office"
-   ],
-   "answer": 2
   },
   {
    "q": "Vietnam's main law on copyright is the…",
    "options": [
-    "Law on Press",
     "Law on Intellectual Property 2005 (amended 2009, 2019, 2022)",
     "Labour Code",
+    "Law on Press",
     "Law on Advertising"
    ],
-   "answer": 1
-  },
-  {
-   "q": "A work in the public domain…",
-   "options": [
-    "Is owned by the government",
-    "Is free only while popular",
-    "Requires a licence",
-    "Is no longer protected and is free to use"
-   ],
-   "answer": 3
+   "answer": 0
   },
   {
    "q": "CC BY means you may use the work…",
    "options": [
+    "Without any credit",
     "Freely, as long as you credit the author",
     "Only for non-commercial purposes",
-    "Only without changes",
-    "Without any credit"
-   ],
-   "answer": 0
-  },
-  {
-   "q": "\"ShareAlike\" (SA) in a Creative Commons licence means…",
-   "options": [
-    "You cannot share it",
-    "You may share it only on social media",
-    "Adaptations must be released under the same licence",
-    "No credit is required"
-   ],
-   "answer": 2
-  },
-  {
-   "q": "\"NoDerivatives\" (ND) means…",
-   "options": [
-    "No credit needed",
-    "You may share it only unchanged",
-    "No commercial use",
-    "No sharing allowed"
+    "Only without changes"
    ],
    "answer": 1
-  },
-  {
-   "q": "\"NonCommercial\" (NC) means…",
-   "options": [
-    "No credit needed",
-    "No changes allowed",
-    "Share alike",
-    "Use for non-commercial purposes only"
-   ],
-   "answer": 3
-  },
-  {
-   "q": "CC0 means…",
-   "options": [
-    "The creator waives their rights, dedicating the work to the public domain",
-    "Credit is required",
-    "Commercial use is banned",
-    "Changes are banned"
-   ],
-   "answer": 0
-  },
-  {
-   "q": "Using an image found through Google in a client project is…",
-   "options": [
-    "Always free",
-    "Free if you credit the source",
-    "Allowed only with permission or a suitable licence, unless clearly public domain",
-    "Free if you resize it"
-   ],
-   "answer": 2
   },
   {
    "q": "Font licences…",
    "options": [
-    "Are all the same",
     "Differ for desktop, web and app use",
-    "Do not exist, fonts are unprotected",
-    "Cover printing only"
+    "Are all the same",
+    "Cover printing only",
+    "Do not exist, fonts are unprotected"
    ],
-   "answer": 1
-  },
-  {
-   "q": "\"Royalty-free\" stock images are…",
-   "options": [
-    "Always free of charge",
-    "Free of any licence",
-    "In the public domain",
-    "Paid for once (per licence) and used within the terms without per-use royalties"
-   ],
-   "answer": 3
+   "answer": 0
   },
   {
    "q": "Ownership of a commissioned or employment work depends on…",
    "options": [
-    "The contract or employment terms",
-    "Who has the bigger computer",
     "Who finished first",
-    "The file format"
-   ],
-   "answer": 0
-  },
-  {
-   "q": "The difference between plagiarism and copyright infringement is that…",
-   "options": [
-    "They are the same",
-    "Plagiarism is always a crime",
-    "Plagiarism is presenting others' work as your own (ethics); infringement is using protected work without permission (law)",
-    "Infringement applies only to text"
-   ],
-   "answer": 2
-  },
-  {
-   "q": "DRM is…",
-   "options": [
-    "A set of design rules",
-    "Technical measures that control copying and use",
-    "A licence type",
-    "A file format"
-   ],
-   "answer": 1
-  },
-  {
-   "q": "A watermark is…",
-   "options": [
-    "A file format",
-    "A licence",
-    "A colour mode",
-    "A visible or hidden mark identifying the owner and discouraging misuse"
-   ],
-   "answer": 3
-  },
-  {
-   "q": "Copyright exceptions allow…",
-   "options": [
-    "Limited uses without permission, such as quotation, teaching or personal study, with attribution",
-    "Any commercial use",
-    "Removing the author's name",
-    "Selling copies freely"
-   ],
-   "answer": 0
-  },
-  {
-   "q": "\"Fair use\" is…",
-   "options": [
-    "A Vietnamese legal term",
-    "A rule that everything online is free",
-    "A US doctrine weighing purpose, amount and market effect",
-    "A Creative Commons licence"
-   ],
-   "answer": 2
-  },
-  {
-   "q": "Reposting someone's photo on social media without permission…",
-   "options": [
-    "Is always legal",
-    "May infringe the photographer's copyright",
-    "Is fine if you tag them",
-    "Is fine on a private account"
+    "The contract or employment terms",
+    "The file format",
+    "Who has the bigger computer"
    ],
    "answer": 1
   },
   {
    "q": "Ownership of AI-generated images is…",
    "options": [
+    "Legally unsettled and different by country; human authorship is generally required",
     "Always held by the AI",
     "Public domain everywhere",
-    "Fully settled worldwide",
-    "Legally unsettled and different by country; human authorship is generally required"
+    "Fully settled worldwide"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The first thing an owner should secure before taking action against a copier is…",
+   "options": [
+    "A new logo",
+    "A bigger audience",
+    "A Creative Commons licence",
+    "Evidence of ownership, such as original files and dates"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A takedown notice is…",
+   "options": [
+    "A watermark",
+    "A type of licence",
+    "A request to a platform or host to remove infringing content",
+    "A court judgment"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In Vietnam, remedies for infringement include…",
+   "options": [
+    "Civil, administrative and criminal measures",
+    "Civil measures only",
+    "None, it is not enforceable",
+    "Only a warning letter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Plagiarism differs from copyright infringement because plagiarism is…",
+   "options": [
+    "An ethical issue of passing off others' work as your own",
+    "Only about text",
+    "The same as infringement",
+    "Always a crime"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why is prevention important in digital copyright?",
+   "options": [
+    "Because digital works have no copyright",
+    "Copies spread fast, cross borders and are hard to trace",
+    "Because courts do not accept digital evidence",
+    "Because enforcement is always free"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A hash function turns a file into…",
+   "options": [
+    "A copy of the file",
+    "A fixed-length string that acts like a fingerprint",
+    "A smaller version of the same image",
+    "An encrypted file you can reopen with a key"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which property describes hashing?",
+   "options": [
+    "It needs a private key",
+    "One-way: you cannot rebuild the file from the hash",
+    "It hides the file's content",
+    "Two-way: the file can be restored from the hash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "If you change one pixel of an image, its SHA-256 hash…",
+   "options": [
+    "Changes by one character",
+    "Stays the same",
+    "Becomes shorter",
+    "Becomes completely different"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which hash algorithm is currently considered the standard choice?",
+   "options": [
+    "MD5",
+    "SHA-256",
+    "CRC",
+    "SHA-1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why is MD5 not suitable for proof of ownership?",
+   "options": [
+    "It needs a licence",
+    "It is too slow",
+    "It can only hash text",
+    "Collisions can be forced, so two different files can share a hash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "How can hashing help prove your design is original?",
+   "options": [
+    "The hash shows who the author is",
+    "Store the hash with a date; a matching hash later shows the file existed unchanged",
+    "The hash can be decrypted into the design",
+    "The hash stops others from copying"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is a limit of hashing for finding copies?",
+   "options": [
+    "It reveals the private key",
+    "It cannot be computed for images",
+    "It is illegal in Vietnam",
+    "Resizing or re-saving an image changes the hash, so edited copies are missed"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hashing and encryption differ because…",
+   "options": [
+    "They are the same process",
+    "Encryption is one-way; hashing is reversible",
+    "Hashing is one-way with no key; encryption is reversible with a key",
+    "Hashing needs a key; encryption does not"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Encryption turns a readable file into…",
+   "options": [
+    "Ciphertext that can be reversed with the right key",
+    "A watermarked copy",
+    "A fixed-length fingerprint",
+    "A compressed file"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Symmetric encryption uses…",
+   "options": [
+    "One shared secret key to encrypt and decrypt",
+    "A different key for each pixel",
+    "No key at all",
+    "A public and a private key"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which is an example of symmetric encryption?",
+   "options": [
+    "EXIF",
+    "AES",
+    "SHA-256",
+    "RSA"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Asymmetric encryption uses…",
+   "options": [
+    "A watermark",
+    "Only a hash",
+    "One shared password",
+    "A public key and a private key pair"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Why are symmetric and asymmetric encryption often used together?",
+   "options": [
+    "Asymmetric encryption is faster for large files",
+    "Together they produce a hash",
+    "Fast AES encrypts the file, and asymmetric encryption protects the AES key",
+    "Symmetric encryption cannot protect files"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A main weakness of encryption for protecting copyright is that…",
+   "options": [
+    "Once the content is decrypted on screen or speakers, it can be recorded",
+    "It changes the file's copyright term",
+    "It removes the author's name",
+    "Encrypted files cannot be shared"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "DRM is best described as…",
+   "options": [
+    "A set of design rules",
+    "Encryption plus licence rules controlling who can use content and how",
+    "A free licence type",
+    "A file format"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In a typical DRM system, who gives the decryption key to the player?",
+   "options": [
+    "The user, by typing the file name",
+    "The watermark",
+    "The file's metadata",
+    "A licence server that checks the user's rights"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which is a drawback of DRM?",
+   "options": [
+    "It removes the need for a licence",
+    "It can inconvenience honest users and lock content to a platform",
+    "It cannot restrict copying",
+    "It is not based on encryption"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A digital signature is created by…",
+   "options": [
+    "Writing the author's name in the metadata",
+    "Adding a visible logo",
+    "Encrypting the whole file with a shared password",
+    "Encrypting the file's hash with the signer's private key"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A digital signature proves…",
+   "options": [
+    "That nobody can copy the file",
+    "Who signed the file and that it has not changed since",
+    "That the file is free to use",
+    "That the file is in the public domain"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "To verify a digital signature, the receiver uses…",
+   "options": [
+    "The file's EXIF data",
+    "The signer's public key",
+    "The signer's private key",
+    "A watermark detector"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The difference between a hash and a digital signature is that…",
+   "options": [
+    "A signature also proves who made the file",
+    "A hash proves who made the file",
+    "A hash needs a private key",
+    "A signature has no connection to hashing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which are common metadata standards in image files?",
+   "options": [
+    "MD5, SHA-1 and SHA-256",
+    "AES, RSA and ECC",
+    "EXIF, IPTC and XMP",
+    "JPEG, PNG and GIF"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which metadata standard is mainly used for creator, copyright notice and usage terms?",
+   "options": [
+    "IPTC",
+    "EXIF",
+    "SHA-256",
+    "HTTPS"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why is metadata weak as the only protection?",
+   "options": [
+    "It makes the file unreadable",
+    "It cannot store the author's name",
+    "It is easy to strip, for example when uploading to social media",
+    "It is not allowed by law"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A visible watermark mainly aims to…",
+   "options": [
+    "Deter theft and credit the owner",
+    "Hide secret messages",
+    "Create a hash",
+    "Encrypt the file"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "An invisible watermark is designed to…",
+   "options": [
+    "Be easily removed",
+    "Stay hidden but survive compression and cropping",
+    "Replace the file's metadata",
+    "Make the image unreadable"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Embedding a watermark in frequency data (e.g. DCT) is usually…",
+   "options": [
+    "Less robust than changing the least significant bit",
+    "Easier to see",
+    "More robust against compression and resizing than changing pixel bits",
+    "Only possible for text"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A forensic watermark gives each recipient a different hidden mark so that…",
+   "options": [
+    "The hash stays the same",
+    "The file can be encrypted",
+    "The licence is removed",
+    "A leak can be traced to the person who received that copy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Steganography is…",
+   "options": [
+    "A way to compute a hash",
+    "Scrambling data so it is unreadable but visible",
+    "A type of licence",
+    "Hiding data inside another file so nobody knows it is there"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The difference between encryption and steganography is that steganography hides…",
+   "options": [
+    "Only the file name",
+    "The private key",
+    "The author's rights",
+    "The existence of the data, not just its meaning"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fingerprinting (e.g. YouTube Content ID) recognises content by…",
+   "options": [
+    "The file name",
+    "Its own features, such as audio or visual patterns, compared with a database",
+    "A visible logo placed on it",
+    "The upload date only"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why does fingerprinting find edited copies that a hash cannot?",
+   "options": [
+    "It matches features that survive cropping and re-encoding",
+    "It encrypts the copy",
+    "It adds a watermark first",
+    "It reads the author's name from metadata"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "On a Content ID match, the owner can…",
+   "options": [
+    "Block, monetise or just track the upload",
+    "Only delete the platform account",
+    "Nothing, matches are informational",
+    "Only change the file format"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "C2PA content credentials attach to a file…",
+   "options": [
+    "A signed record of who made it, with which tools, and what edits were made",
+    "A copy of the original on a server only",
+    "A visible watermark",
+    "An encryption key"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why is C2PA especially relevant now?",
+   "options": [
+    "It encrypts all social media posts",
+    "It helps show whether content is original, edited or AI-generated",
+    "It makes AI images public domain",
+    "It removes the need for licences"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A limitation of C2PA is that…",
+   "options": [
+    "It cannot be signed",
+    "The credentials can be stripped when a platform removes metadata",
+    "It replaces copyright law",
+    "It only works for text"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Technical tools control access; what defines what a user is allowed to do?",
+   "options": [
+    "The licensing terms",
+    "The watermark colour",
+    "The file extension",
+    "The hash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which combination is the best approach to protect a design before publishing?",
+   "options": [
+    "Only upload it with no marks",
+    "Only add metadata",
+    "Only rely on registration",
+    "Hash and date the original, add metadata, watermark a low-res preview, state the licence"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which method matches this job: prove the file is original and unchanged?",
+   "options": [
+    "Fingerprinting database",
+    "Visible watermark",
+    "Hashing or digital signature",
+    "Creative Commons licence"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which method matches this job: find copies after release?",
+   "options": [
+    "Hashing the file once",
+    "Encrypting the file",
+    "Metadata",
+    "Fingerprinting"
    ],
    "answer": 3
   }
