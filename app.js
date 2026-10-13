@@ -23,6 +23,12 @@
       Object.entries(notes).forEach(([id, text]) => store.set("note:" + id, text));
     } catch (e) { console.warn("Google Sheet not reachable, using notes on this device.", e); }
   }
+  function refreshNotesFromSheet() {
+    const ta = document.getElementById("note");
+    const m = location.hash.match(/^#\/c\/([^/?#]+)/);
+    if (ta && m && document.activeElement !== ta) ta.value = note(decodeURIComponent(m[1]));
+    else if (!location.hash || location.hash === "#/") viewHome();
+  }
   function saveToSheet(course, text) {
     return fetch(SHEET_URL, { method: "POST", mode: "no-cors", body: JSON.stringify({ id: course.id, course: course.title, note: text }) });
   }
@@ -154,21 +160,45 @@
       t.replaceWith(wrap);
       wrap.appendChild(t);
     });
-    const blocks = into.querySelectorAll("pre > code.language-mermaid");
-    if (!blocks.length) return;
-    initMermaid();
-    const nodes = [];
-    blocks.forEach((code) => {
-      const div = document.createElement("div");
-      div.className = "mindmap mermaid";
-      div.textContent = code.textContent;
-      code.parentElement.replaceWith(div);
-      nodes.push(div);
+    // Mind maps stay as a button; the 3 MB library loads only when tapped.
+    into.querySelectorAll("pre > code.language-mermaid").forEach((code) => {
+      const src = code.textContent;
+      const slot = document.createElement("div");
+      slot.className = "mindmap-slot";
+      slot.innerHTML = `<button type="button" class="btn btn--quiet">Show mind map</button>`;
+      code.parentElement.replaceWith(slot);
+      const btn = slot.querySelector("button");
+      btn.addEventListener("click", async () => {
+        btn.disabled = true;
+        btn.textContent = "Loading mind map…";
+        try {
+          await loadMermaid();
+          const div = document.createElement("div");
+          div.className = "mindmap mermaid";
+          div.textContent = src;
+          slot.replaceWith(div);
+          await mermaid.run({ nodes: [div] });
+        } catch (err) {
+          btn.disabled = false;
+          btn.textContent = "Mind map could not load. Tap to try again";
+        }
+      });
     });
-    if (window.mermaid) {
-      try { await mermaid.run({ nodes }); }
-      catch (e) { console.warn("Mind map could not be drawn", e); }
+  }
+  const MERMAID_SRC = "https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js";
+  let mermaidPromise = null;
+  function loadMermaid() {
+    if (window.mermaid) { initMermaid(); return Promise.resolve(); }
+    if (!mermaidPromise) {
+      mermaidPromise = new Promise((resolve, reject) => {
+        const s = document.createElement("script");
+        s.src = MERMAID_SRC;
+        s.onload = () => { initMermaid(); resolve(); };
+        s.onerror = () => { mermaidPromise = null; s.remove(); reject(new Error("Mind map library failed to load")); };
+        document.head.appendChild(s);
+      });
     }
+    return mermaidPromise;
   }
 
   /* ---------- Views ---------- */
@@ -472,10 +502,13 @@
         <p>If you opened index.html straight from your computer, run a local server instead (see README).</p></div>`;
       return;
     }
-    await loadSheetNotes();
+    loadSheetNotes().then(refreshNotesFromSheet);
     document.getElementById("updated").textContent = manifest.updated ? `Content updated ${manifest.updated}` : "";
     renderNav();
     window.addEventListener("hashchange", route);
     route();
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("sw.js").catch((e) => console.warn("Offline cache unavailable", e));
+    }
   })();
 })();

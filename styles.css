@@ -169,6 +169,7 @@ img, svg { max-width: 100%; }
   margin: 0 0 1.4em; padding: 12px; overflow-x: auto;
   background: #FFFFFF; border: 1px solid var(--rule); border-radius: var(--radius-s);
 }
+.mindmap-slot { margin: 0 0 1.4em; }
 .mindmap svg { display: block; margin: 0 auto; height: auto; }
 
 /* ---------- Viewfinder frame (the signature element) ---------- */
